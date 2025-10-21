@@ -1,1 +1,8 @@
 python-dotenv
+Levenshtein==0.27.1
+matplotlib==3.10.6
+networkx==3.4.2
+pandas==2.3.2
+PyDriller==2.9
+scipy==1.15.3
+tenetan==0.9.0

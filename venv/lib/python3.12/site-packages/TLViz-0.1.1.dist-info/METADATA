@@ -1,0 +1,179 @@
+Metadata-Version: 2.1
+Name: TLViz
+Version: 0.1.1
+Summary: Package to visualise component-based decomposition models such as PCA and PARAFAC
+Home-page: https://tensorly.org/viz
+Author: Marie Roald & Yngve Mardal Moe
+Author-email: roald.marie@gmail.com
+License: "MIT license",
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: pandas (>=1.1.0)
+Requires-Dist: statsmodels
+Requires-Dist: xarray
+Requires-Dist: requests
+Provides-Extra: all
+Requires-Dist: pingouin ; extra == 'all'
+Provides-Extra: devel
+Requires-Dist: flake8 ; extra == 'devel'
+Requires-Dist: isort ; extra == 'devel'
+Requires-Dist: black ; extra == 'devel'
+Requires-Dist: bump2version ; extra == 'devel'
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: sphinx-gallery ; extra == 'docs'
+Requires-Dist: sphinxcontrib-bibtex ; extra == 'docs'
+Requires-Dist: autodocsumm ; extra == 'docs'
+Requires-Dist: numpydoc ; extra == 'docs'
+Requires-Dist: tensorly ; extra == 'docs'
+Requires-Dist: tensorly-sphinx-theme ; extra == 'docs'
+Requires-Dist: plotly (>=4.12) ; extra == 'docs'
+Requires-Dist: torch ; extra == 'docs'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-randomly ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: coverage ; extra == 'test'
+Requires-Dist: tensorly ; extra == 'test'
+Requires-Dist: plotly (>=4.12) ; extra == 'test'
+Requires-Dist: torch ; extra == 'test'
+
+==================================================
+TLViz — Visualising and analysing component models
+==================================================
+
+.. image:: https://github.com/tensorly/viz/workflows/tests/badge.svg
+    :target: https://github.com/tensorly/viz/actions/workflows/tests.yml
+    :alt: Tests
+
+.. image:: https://codecov.io/gh/tensorly/viz/branch/main/graph/badge.svg?token=QhgCjtr2qk
+    :target: https://codecov.io/gh/tensorly/viz
+    :alt: Coverage
+
+.. image:: https://github.com/tensorly/viz/actions/workflows/build_doc.yml/badge.svg
+        :target: https://github.com/tensorly/viz/actions/workflows/build_doc.yml
+        :alt: Documentation Status
+
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
+
+TLViz is a Python package for visualising component-based decomposition models like PARAFAC and PCA.
+
+Documentation
+-------------
+
+The documentation
+is available on `the TensorLy website <https://tensorly.org/viz>`_ and includes
+
+* A `primer on tensors <https://tlviz.readthedocs.io/en/latest/about_tensors.html#what-are-tensors-and-tensor-decompositions>`_, `tensor factorisations <https://tlviz.readthedocs.io/en/latest/about_tensors.html#what-are-tensor-factorisations>`_ and the `notation we use <https://tlviz.readthedocs.io/en/latest/about_tensors.html#notation>`_
+* `An example gallery <https://tlviz.readthedocs.io/en/latest/auto_examples/index.html>`_
+* `The API reference <https://tlviz.readthedocs.io/en/latest/api.html>`_
+
+
+Dependencies
+------------
+
+TLViz supports Python 3.7 or above (it may also work with Python 3.6, though that is not officially supported).
+
+Installation requires matplotlib, numpy, pandas, scipy, statsmodels and xarray.
+
+Installation
+------------
+
+To install the latest stable release of TLViz and its dependencies, run:
+
+.. code:: raw
+
+    pip install tlviz
+
+There is also functionality to create improved QQ-plots with Pingoiun.
+However, this is disabled by default due to the restrictive GPL lisence.
+To enable this possibility, you must manually `install Pingoiun <https://pingouin-stats.org>`_.
+
+To install the latest development version of TLViz, you can either clone
+this repo or run
+
+.. code:: raw
+
+    pip install git+https://github.com/marieroald/tlviz.git
+
+
+Example
+-------
+
+.. code:: python
+
+    import tlviz
+    import matplotlib.pyplot as plt
+    from tensorly.decomposition import parafac
+
+    def fit_parafac(dataset, num_components, num_inits):
+        model_candidates = [
+            parafac(dataset.data, num_components, init="random", random_state=i)
+            for i in range(num_inits)
+        ]
+        model = tlviz.multimodel_evaluation.get_model_with_lowest_error(
+            model_candidates, dataset
+        )
+        return tlviz.postprocessing.postprocess(model, dataset)
+
+    data = tlviz.data.load_aminoacids()
+    cp_tensor = fit_parafac(data, 3, num_inits=3)
+    tlviz.visualisation.components_plot(cp_tensor)
+    plt.show()
+
+.. code:: raw
+
+    Loading Aminoacids dataset from:
+    Bro, R, PARAFAC: Tutorial and applications, Chemometrics and Intelligent Laboratory Systems, 1997, 38, 149-171
+
+.. image:: docs/figures/readme_example.svg
+    :width: 800
+    :alt: An example figure showing the component vectors of a three component PARAFAC model fitted to a fluoresence spectroscopy dataset.
+
+This example uses TensorLy to fit five three-component PARAFAC models to the data. Then it uses TLViz to:
+
+#. Select the model that gave the lowest reconstruction error,
+#. normalise the component vectors, storing their magnitude in a separate weight-vector,
+#. permute the components in descending weight (i.e. signal strength) order,
+#. flip the components so they point in a logical direction compared to the data,
+#. convert the factor matrices into Pandas DataFrames with logical indices,
+#. and plot the components using matplotlib.
+
+All these steps are described in the `API documentation <https://tlviz.readthedocs.io/en/latest/api.html>`_ with references to the literature.
+
+Testing
+-------
+
+The test suite requires an additional set of dependencies. To install these, run
+
+.. code:: raw
+
+    pip install tlviz[test]
+
+or
+
+.. code:: raw
+
+    pip install -e .[test]
+
+inside your local copy of the TLViz repository.
+
+The tests can be run by calling ``pytest`` with no additional arguments.
+All doctests are ran by default and a coverage summary will be printed on the screen.
+To generate a coverage report, run ``coverage html``.
+
+Contributing
+------------
+
+Contributions are welcome to TLViz, see the `contribution guidelines <https://tlviz.readthedocs.io/en/latest/contributing.html>`_.
+
+
