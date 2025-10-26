@@ -11,7 +11,9 @@ from pydriller import Repository
 projects = [
     "https://github.com/torvalds/linux",
     "https://github.com/flutter/flutter",
-    "https://github.com/nodejs/node"
+    "https://github.com/nodejs/node",
+    "https://github.com/facebook/react",
+    "https://github.com/Homebrew/homebrew-core"
 ]
 
 # Base directory for saving results

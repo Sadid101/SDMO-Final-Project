@@ -148,7 +148,9 @@ def is_duplicate(dev1, dev2):
 projects = [
     "https://github.com/torvalds/linux",
     "https://github.com/flutter/flutter",
-    "https://github.com/nodejs/node"
+    "https://github.com/nodejs/node",
+    "https://github.com/facebook/react",
+    "https://github.com/Homebrew/homebrew-core"
 ]
 
 BASE_DIR = "src"
