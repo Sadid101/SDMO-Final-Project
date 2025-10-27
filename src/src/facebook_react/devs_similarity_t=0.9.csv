@@ -1,0 +1,841 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7
+Adrian Carolli,adrian.caarolli@gmail.com,watadarkstar,adrian.caarolli@gmail.com,0.3846153846153846,1.0,0.4444444444444444,0.0,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,Felix Wu,mail@flxwu.com,0.19047619047619047,1.0,0.18181818181818177,0.0,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,Fokke Zandbergen,mail@fokkezb.nl,0.3448275862068966,1.0,0.0,0.375,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,Hendrik Liebau,mail@hendrik-liebau.de,0.5185185185185186,1.0,0.46153846153846156,0.5,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,Lenz Weber-Tronic,mail@lenzw.de,0.4137931034482759,1.0,0.19999999999999996,0.47058823529411764,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,Matias Singers,mail@matiassingers.com,0.5925925925925926,1.0,0.5,0.6153846153846154,0,0,0,0
+Adrian Sieber,mail@adriansieber.com,translucens,mail@w-st.com,0.41666666666666663,1.0,0.3529411764705882,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Billy Shih,me@billyshih.com,0.21052631578947367,1.0,0.2222222222222222,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Chad Fawcett,me@chadf.ca,0.19047619047619047,1.0,0.25,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Chris Bianca,me@chrisbianca.com,0.19047619047619047,1.0,0.0,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Gasim Gasimzada,me@gasim.xyz,0.25,1.0,0.2222222222222222,0.15384615384615385,0,0,0,0
+Alan Plum,me@pluma.io,Guilherme Oenning,me@goenning.net,0.15384615384615385,1.0,0.15384615384615385,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Hugo Jobling,me@thisishugo.com,0.19047619047619047,1.0,0.0,0.18181818181818177,0,0,0,0
+Alan Plum,me@pluma.io,Ingvar Stepanyan,me@rreverser.com,0.24,1.0,0.19999999999999996,0.15384615384615385,0,0,0,0
+Alan Plum,me@pluma.io,Jaeho Lee,me@jaeholee.org,0.33333333333333337,1.0,0.2222222222222222,0.2857142857142857,0,0,0,0
+Alan Plum,me@pluma.io,Joshua Ma,me@joshma.com,0.33333333333333337,1.0,0.19999999999999996,0.33333333333333337,0,0,0,0
+Alan Plum,me@pluma.io,Kurt Ruppel,me@kurtruppel.com,0.30000000000000004,1.0,0.0,0.4,0,0,0,0
+Alan Plum,me@pluma.io,NISHIZAWA Shuntaro,me@s2n.tech,0.2962962962962963,1.0,0.3076923076923077,0.16666666666666663,0,0,0,0
+Alan Plum,me@pluma.io,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.24242424242424243,1.0,0.33333333333333337,0.10526315789473684,0,0,0,0
+Alan Plum,me@pluma.io,Paul Benigeri,me@benigeri.com,0.2727272727272727,1.0,0.5,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Pieter Vanderwerff,me@pieter.io,0.14814814814814814,1.0,0.0,0.0,0,0,0,0
+Alan Plum,me@pluma.io,Rafael Angeline,me@rafaelangeline.com,0.41666666666666663,1.0,0.4,0.16666666666666663,0,0,0,0
+Alan Plum,me@pluma.io,Rouven Weßling,me@rouvenwessling.de,0.25,1.0,0.19999999999999996,0.16666666666666663,0,0,0,0
+Alan Plum,me@pluma.io,Sunny Juneja,me@sunnyjuneja.com,0.2857142857142857,1.0,0.2222222222222222,0.19999999999999996,0,0,0,0
+Alex,itaieps+github@fastmail.fm,Alex,ultrafez@users.noreply.github.com,1.0,0.2727272727272727,1.0,0.0,0,0,0,0
+Alex Boyd,alex@opengroove.org,Alex Jegtnes,alex@jegtnes.com,0.47619047619047616,1.0,1.0,0.0,0,0,0,0
+Alex Boyd,alex@opengroove.org,Alex Lopatin,alex@alexlopatin.com,0.5714285714285714,1.0,1.0,0.18181818181818177,0,0,0,0
+Alex Boyd,alex@opengroove.org,Alexander Boyd,alex@opengroove.org,0.782608695652174,1.0,0.6153846153846154,1.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Chris Pearce,hello@chrispearce.me,0.19047619047619047,1.0,0.0,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Jay Phelps,hello@jayphelps.com,0.3157894736842105,1.0,0.2857142857142857,0.19999999999999996,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Kay,hello@kunalpanchal.in,0.16666666666666663,1.0,0.2857142857142857,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Marvin Hagemeister,hello@marvinh.dev,0.2962962962962963,1.0,0.19999999999999996,0.2666666666666667,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Philipp,hello@philippspiess.com,0.125,1.0,0.18181818181818177,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Philipp Spiess,hello@philippspiess.com,0.17391304347826086,1.0,0.18181818181818177,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Philipp Spieß,hello@philippspiess.com,0.17391304347826086,1.0,0.18181818181818177,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Richard Kho,hello@richardkho.com,0.30000000000000004,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Seyi Adebajo,hello@seyinanigans.com,0.19047619047619047,1.0,0.25,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Simone Vittori,hello@simonewebdesign.it,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Yann アウネ Eves,hello@yanneves.com,0.18181818181818177,1.0,0.25,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,Yasar icli,hello@yasaricli.com,0.21052631578947367,1.0,0.2222222222222222,0.0,0,0,0,0
+Alex Hunt,hello@alexhunt.io,simonewebdesign,hello@simonewebdesign.it,0.16666666666666663,1.0,0.10526315789473684,0.0,0,0,0,0
+Alex Jegtnes,alex@jegtnes.com,Alex Lopatin,alex@alexlopatin.com,0.5833333333333333,1.0,1.0,0.2857142857142857,0,0,0,0
+Alex Jegtnes,alex@jegtnes.com,Alexander Boyd,alex@opengroove.org,0.46153846153846156,1.0,0.6153846153846154,0.0,0,0,0,0
+Alex Lopatin,alex@alexlopatin.com,Alexander Boyd,alex@opengroove.org,0.46153846153846156,1.0,0.6153846153846154,0.18181818181818177,0,0,0,0
+Alex Rohleder,alex+github@alexrohleder.com,Alex Rohleder,alexrohleder96@outlook.com,1.0,0.4,1.0,1.0,0,0,0,0
+Alex Taylor,alexmckenley@gmail.com,Alex Taylor,alta@fb.com,1.0,0.25,1.0,1.0,0,0,0,0
+Alex Zherdev,alex.zherdev@gmail.com,Alex Zherdev,alex_zherdev@acl.com,1.0,0.9166666666666666,1.0,1.0,0,0,0,0
+Alex Zherdev,alex.zherdev@gmail.com,Alex Zherdev,azherdev@rocketfuel.com,1.0,0.8,1.0,1.0,1,0,0,0
+Alex Zherdev,alex_zherdev@acl.com,Alex Zherdev,azherdev@rocketfuel.com,1.0,0.8,1.0,1.0,1,0,0,0
+Alexander,alexander.chisler@gmail.com,Alexander,alx.safari@gmail.com,1.0,0.4444444444444444,1.0,0.0,0,0,0,0
+Alexander Kachkaev,alexander@kachkaev.ru,Alexander Solovyov,alexander@solovyov.net,0.6111111111111112,1.0,1.0,0.125,0,0,0,0
+Alexandru Tasica,contact@alexandrutasica.ro,Eric Eastwood,contact@ericeastwood.com,0.3448275862068966,1.0,0.3076923076923077,0.2857142857142857,0,0,0,0
+Alexandru Tasica,contact@alexandrutasica.ro,Georgios Giannoutsos Barkas,contact@nuc.gr,0.32558139534883723,1.0,0.23529411764705888,0.25,0,0,0,0
+Alexandru Tasica,contact@alexandrutasica.ro,Max,contact@mstoiber.com,0.21052631578947367,1.0,0.33333333333333337,0.0,0,0,0,0
+Alexandru Tasica,contact@alexandrutasica.ro,Steven Vachon,contact@svachon.com,0.3448275862068966,1.0,0.2666666666666667,0.33333333333333337,0,0,0,0
+Alexey Raspopov,avenger7x13@gmail.com,Alexey Raspopov,oleksii.raspopov@gmail.com,1.0,0.14814814814814814,1.0,1.0,0,0,0,0
+Andreas,andreas@nibbli.com,Andreas Svensson,andreas@syranide.com,0.6086956521739131,1.0,1.0,0.0,0,0,0,0
+Andreas,andreas@nibbli.com,Andrew Rasmussen,andras@fb.com,0.6086956521739131,0.9230769230769231,0.7692307692307692,0.0,0,0,0,0
+Andreas,andreas@nibbli.com,syranide,andreas@syranide.com,0.5333333333333333,1.0,0.5333333333333333,0.0,0,0,0,0
+Andreas Savvides,AnSavvides@users.noreply.github.com,Andreas Savvides,asavvides@twitter.com,1.0,0.736842105263158,1.0,1.0,1,0,0,0
+Andreas Svensson,andreas@syranide.com,Andrew Rasmussen,andras@fb.com,0.625,0.9230769230769231,0.7692307692307692,0.47058823529411764,0,0,0,0
+Andreas Svensson,andreas@syranide.com,syranide,andreas@syranide.com,0.33333333333333337,1.0,0.5333333333333333,0.0,0,0,0,0
+Andres Suarez,zertosh@gmail.com,andres suarez,zertosh@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Andrew Clark,acdlite@fb.com,Andrew Clark,acdlite@me.com,1.0,1.0,1.0,1.0,0,0,0,0
+Andrew Clark,acdlite@fb.com,Andrew Clark,git@andrewclark.io,1.0,0.4,1.0,1.0,0,0,0,0
+Andrew Clark,acdlite@fb.com,Andrew Clark,github@andrewclark.io,1.0,0.3076923076923077,1.0,1.0,0,0,0,0
+Andrew Clark,acdlite@me.com,Andrew Clark,git@andrewclark.io,1.0,0.4,1.0,1.0,0,0,0,0
+Andrew Clark,acdlite@me.com,Andrew Clark,github@andrewclark.io,1.0,0.3076923076923077,1.0,1.0,0,0,0,0
+Andrew Clark,git@andrewclark.io,Andrew Clark,github@andrewclark.io,1.0,0.6666666666666667,1.0,1.0,0,0,0,0
+Andrew Clark,git@andrewclark.io,Cameron Chamberlain,git@camjc.com,0.3870967741935484,1.0,0.3076923076923077,0.375,0,0,0,0
+Andrew Clark,git@andrewclark.io,Josh Goldberg ✨,git@joshuakgoldberg.com,0.2222222222222222,1.0,0.0,0.2666666666666667,0,0,0,0
+Andrew Clark,git@andrewclark.io,Julien Bordellier,git@julienbordellier.com,0.3448275862068966,1.0,0.16666666666666663,0.2666666666666667,0,0,0,0
+Andrew Clark,git@andrewclark.io,Orta Therox,git@orta.io,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,0,0,0,0
+Andrew Clark,git@andrewclark.io,Remko Tronçon,git@el-tramo.be,0.31999999999999995,1.0,0.36363636363636365,0.16666666666666663,0,0,0,0
+Andrew Clark,git@andrewclark.io,Sophie Alpert,git@sophiebits.com,0.31999999999999995,1.0,0.16666666666666663,0.36363636363636365,0,0,0,0
+Andrew Clark,git@andrewclark.io,Stefan Sundin,git@stefansundin.com,0.24,1.0,0.33333333333333337,0.0,0,0,0,0
+Andrew Clark,git@andrewclark.io,skratchdot,git@skratchdot.com,0.18181818181818177,1.0,0.25,0.0,0,0,0,0
+Andrew Clark,github@andrewclark.io,Benjamin Woodruff,github@benjam.info,0.27586206896551724,1.0,0.2857142857142857,0.15384615384615385,0,0,0,0
+Andrew Clark,github@andrewclark.io,Chris Rebert,github@rebertia.com,0.25,1.0,0.18181818181818177,0.18181818181818177,0,0,0,0
+Andrew Clark,github@andrewclark.io,Eli White,github@eli-white.com,0.19047619047619047,1.0,0.2222222222222222,0.0,0,0,0,0
+Andrew Clark,github@andrewclark.io,François Best,github@francoisbest.com,0.24,1.0,0.2857142857142857,0.0,0,0,0,0
+Andrew Clark,github@andrewclark.io,Jeff Kolesky,github@kolesky.com,0.33333333333333337,1.0,0.19999999999999996,0.33333333333333337,0,0,0,0
+Andrew Clark,github@andrewclark.io,Josh Duck,github@joshduck.com,0.2857142857142857,1.0,0.0,0.4444444444444444,0,0,0,0
+Andrew Clark,github@andrewclark.io,LoganDark,github@logandark.mozmail.com,0.5714285714285714,1.0,0.5333333333333333,0.0,0,0,0,0
+Andrew Clark,github@andrewclark.io,Matt Travi,github@travi.org,0.2727272727272727,1.0,0.19999999999999996,0.19999999999999996,0,0,0,0
+Andrew Clark,github@andrewclark.io,Michał Matyas,github@higher.lv,0.24,1.0,0.16666666666666663,0.18181818181818177,0,0,0,0
+Andrew Clark,github@andrewclark.io,PatrickJS,github@gdi2290.com,0.38095238095238093,1.0,0.2666666666666667,0.0,0,0,0,0
+Andrew Clark,github@andrewclark.io,Paul Schreiber,github@paulschreiber.com,0.3076923076923077,1.0,0.19999999999999996,0.2857142857142857,0,0,0,0
+Andrew Clark,github@andrewclark.io,Rane Wallin,github@blasph.me,0.4347826086956522,1.0,0.6,0.18181818181818177,0,0,0,0
+Andrew Clark,github@andrewclark.io,Steven Luscher,github@steveluscher.com,0.3076923076923077,1.0,0.16666666666666663,0.33333333333333337,0,0,0,0
+Andrew Clark,github@andrewclark.io,Troy DeMonbreun,github@troyd.net,0.2222222222222222,1.0,0.19999999999999996,0.1333333333333333,0,0,0,0
+Andrew Davey,andrew@equin.co.uk,Andrew Patton,andrew@acusti.ca,0.64,1.0,1.0,0.18181818181818177,0,0,0,0
+Andrew Rasmussen,andras@fb.com,syranide,andreas@syranide.com,0.33333333333333337,0.9230769230769231,0.5714285714285714,0.0,0,0,0,0
+Anto,anto.aravinth.cse@gmail.com,Ants,anto.aravinth.cse@gmail.com,0.75,1.0,0.75,0.0,0,0,0,0
+Arkist,arkist@gmail.com,Jinwoo Oh,arkist@gmail.com,0.1333333333333333,1.0,0.16666666666666663,0.0,0,0,0,0
+Baraa Hamodi,baraa@optimizely.com,Baraa Hamodi,bhamodi@uwaterloo.ca,1.0,0.33333333333333337,1.0,1.0,1,0,0,0
+Ben Alpert,balpert@fb.com,Ben Alpert,ben@benalpert.com,1.0,0.4,1.0,1.0,0,0,1,0
+Ben Alpert,balpert@fb.com,Ben Alpert,spicyjalapeno@gmail.com,1.0,0.4,1.0,1.0,0,0,1,0
+Ben Alpert,ben@benalpert.com,Ben Alpert,spicyjalapeno@gmail.com,1.0,0.25,1.0,1.0,0,0,0,0
+Ben Alpert,ben@benalpert.com,Ben Brooks,ben@benbrooks.net,0.5,1.0,1.0,0.16666666666666663,0,0,0,0
+Ben Alpert,ben@benalpert.com,Ben Moss,ben@mossity.com,0.4444444444444444,1.0,1.0,0.0,0,0,0,0
+Ben Brooks,ben@benbrooks.net,Ben Moss,ben@mossity.com,0.6666666666666667,1.0,1.0,0.4,0,0,0,0
+Ben Newman,benjamn@fb.com,Ben Newman,bn@cs.stanford.edu,1.0,0.4444444444444444,1.0,1.0,0,0,0,0
+Benedikt Meurer,benedikt.meurer@googlemail.com,Benedikt Meurer,bmeurer@google.com,1.0,0.6363636363636364,1.0,1.0,1,0,0,0
+Benjamin Woodruff,bgw@fb.com,Benjamin Woodruff,github@benjam.info,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Chris Rebert,github@rebertia.com,0.2068965517241379,1.0,0.15384615384615385,0.1428571428571429,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Eli White,github@eli-white.com,0.3076923076923077,1.0,0.36363636363636365,0.15384615384615385,0,0,0,0
+Benjamin Woodruff,github@benjam.info,François Best,github@francoisbest.com,0.19999999999999996,1.0,0.25,0.0,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Jeff Kolesky,github@kolesky.com,0.2068965517241379,1.0,0.16666666666666663,0.1333333333333333,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Josh Duck,github@joshduck.com,0.3076923076923077,1.0,0.16666666666666663,0.33333333333333337,0,0,0,0
+Benjamin Woodruff,github@benjam.info,LoganDark,github@logandark.mozmail.com,0.3076923076923077,1.0,0.23529411764705888,0.0,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Matt Travi,github@travi.org,0.2222222222222222,1.0,0.16666666666666663,0.15384615384615385,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Michał Matyas,github@higher.lv,0.19999999999999996,1.0,0.2857142857142857,0.0,0,0,0,0
+Benjamin Woodruff,github@benjam.info,PatrickJS,github@gdi2290.com,0.15384615384615385,1.0,0.23529411764705888,0.0,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Paul Schreiber,github@paulschreiber.com,0.19354838709677424,1.0,0.16666666666666663,0.11764705882352944,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Rane Wallin,github@blasph.me,0.2857142857142857,1.0,0.33333333333333337,0.1428571428571429,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Steven Luscher,github@steveluscher.com,0.25806451612903225,1.0,0.2857142857142857,0.1333333333333333,0,0,0,0
+Benjamin Woodruff,github@benjam.info,Troy DeMonbreun,github@troyd.net,0.3125,1.0,0.0,0.33333333333333337,0,0,0,0
+Benoit Girard,b56girard@gmail.com,Benoit Girard,bgirard@fb.com,1.0,0.875,1.0,1.0,1,0,0,0
+Bill Fisher,fisherwebdev@gmail.com,fisherwebdev,fisherwebdev@gmail.com,0.5217391304347826,1.0,0.125,0.0,0,0,0,0
+Billy Janitsch,billy@kensho.com,Billy Janitsch,billyjanitsch@gmail.com,1.0,0.5555555555555556,1.0,1.0,0,0,0,0
+Billy Shih,me@billyshih.com,Chad Fawcett,me@chadf.ca,0.09090909090909094,1.0,0.0,0.0,0,0,0,0
+Billy Shih,me@billyshih.com,Chris Bianca,me@chrisbianca.com,0.2727272727272727,1.0,0.19999999999999996,0.19999999999999996,0,0,0,0
+Billy Shih,me@billyshih.com,Gasim Gasimzada,me@gasim.xyz,0.31999999999999995,1.0,0.19999999999999996,0.3076923076923077,0,0,0,0
+Billy Shih,me@billyshih.com,Guilherme Oenning,me@goenning.net,0.2962962962962963,1.0,0.2857142857142857,0.18181818181818177,0,0,0,0
+Billy Shih,me@billyshih.com,Hugo Jobling,me@thisishugo.com,0.2727272727272727,1.0,0.0,0.18181818181818177,0,0,0,0
+Billy Shih,me@billyshih.com,Ingvar Stepanyan,me@rreverser.com,0.23076923076923073,1.0,0.18181818181818177,0.15384615384615385,0,0,0,0
+Billy Shih,me@billyshih.com,Jaeho Lee,me@jaeholee.org,0.10526315789473684,1.0,0.0,0.0,0,0,0,0
+Billy Shih,me@billyshih.com,Joshua Ma,me@joshma.com,0.21052631578947367,1.0,0.0,0.0,0,0,0,0
+Billy Shih,me@billyshih.com,Kurt Ruppel,me@kurtruppel.com,0.09523809523809523,1.0,0.0,0.0,0,0,0,0
+Billy Shih,me@billyshih.com,NISHIZAWA Shuntaro,me@s2n.tech,0.3571428571428571,1.0,0.1428571428571429,0.33333333333333337,0,0,0,0
+Billy Shih,me@billyshih.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.3529411764705882,1.0,0.3076923076923077,0.3157894736842105,0,0,0,0
+Billy Shih,me@billyshih.com,Paul Benigeri,me@benigeri.com,0.26086956521739135,1.0,0.2222222222222222,0.16666666666666663,0,0,0,0
+Billy Shih,me@billyshih.com,Pieter Vanderwerff,me@pieter.io,0.1428571428571429,1.0,0.18181818181818177,0.0,0,0,0,0
+Billy Shih,me@billyshih.com,Rafael Angeline,me@rafaelangeline.com,0.24,1.0,0.18181818181818177,0.16666666666666663,0,0,0,0
+Billy Shih,me@billyshih.com,Rouven Weßling,me@rouvenwessling.de,0.24,1.0,0.0,0.33333333333333337,0,0,0,0
+Billy Shih,me@billyshih.com,Sunny Juneja,me@sunnyjuneja.com,0.18181818181818177,1.0,0.19999999999999996,0.0,0,0,0,0
+BinaryMuse,brandon@brandontilley.com,Brandon Bloom,brandon@brandonbloom.name,0.26086956521739135,1.0,0.23529411764705888,0.0,0,0,0,0
+BinaryMuse,brandon@brandontilley.com,Brandon Tilley,brandon@brandontilley.com,0.25,1.0,0.23529411764705888,0.0,0,0,0,0
+Blaine,jbhatab@gmail.com,Blaine Hatab,jbhatab@gmail.com,0.6666666666666667,1.0,1.0,0.0,0,0,0,0
+Blake Friedman,blake.friedman@gmail.com,Blake Friedman,blakef@fb.com,1.0,0.6,1.0,1.0,0,0,0,0
+Brandon Bloom,brandon@brandonbloom.name,Brandon Tilley,brandon@brandontilley.com,0.6666666666666667,1.0,1.0,0.18181818181818177,0,0,0,0
+Brandon Chan,70081031+Bchan1999@users.noreply.github.com,Brandon Chan,brandon.nic99@gmail.com,1.0,0.25806451612903225,1.0,1.0,0,0,0,0
+Brandon Dail,Aweary@users.noreply.github.com,Brandon Dail,Kierkegaurd@gmail.com,1.0,0.3529411764705882,1.0,1.0,0,0,0,0
+Brandon Dail,Aweary@users.noreply.github.com,Brandon Dail,aweary@users.noreply.github.com,1.0,0.8333333333333334,1.0,1.0,0,0,0,0
+Brandon Dail,Aweary@users.noreply.github.com,Brandon Dail,brandon.dail@formidable.com,1.0,0.11111111111111116,1.0,1.0,0,0,0,0
+Brandon Dail,Kierkegaurd@gmail.com,Brandon Dail,aweary@users.noreply.github.com,1.0,0.3529411764705882,1.0,1.0,0,0,0,0
+Brandon Dail,Kierkegaurd@gmail.com,Brandon Dail,brandon.dail@formidable.com,1.0,0.26086956521739135,1.0,1.0,0,0,0,0
+Brandon Dail,aweary@users.noreply.github.com,Brandon Dail,brandon.dail@formidable.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Brian Kung,brian@callmekung.com,Brian Reavis,brian@thirdroute.com,0.5454545454545454,1.0,1.0,0.0,0,0,0,0
+Brian Kung,brian@callmekung.com,Brian Rue,brian@rollbar.com,0.736842105263158,1.0,1.0,0.2857142857142857,0,0,0,0
+Brian Reavis,brian@thirdroute.com,Brian Rue,brian@rollbar.com,0.7619047619047619,1.0,1.0,0.4444444444444444,0,0,0,0
+Brian Vaughn,brian.david.vaughn@gmail.com,Brian Vaughn,bvaughn@fb.com,1.0,0.56,1.0,1.0,1,0,0,0
+Cameron Chamberlain,git@camjc.com,Cameron Chamberlain,hi@camjc.com,1.0,0.4,1.0,1.0,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Josh Goldberg ✨,git@joshuakgoldberg.com,0.2941176470588235,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Julien Bordellier,git@julienbordellier.com,0.38888888888888884,1.0,0.3076923076923077,0.38095238095238093,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Orta Therox,git@orta.io,0.33333333333333337,1.0,0.18181818181818177,0.3529411764705882,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Remko Tronçon,git@el-tramo.be,0.375,1.0,0.33333333333333337,0.2222222222222222,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Sophie Alpert,git@sophiebits.com,0.3125,1.0,0.15384615384615385,0.3529411764705882,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Stefan Sundin,git@stefansundin.com,0.3125,1.0,0.3076923076923077,0.23529411764705888,0,0,0,0
+Cameron Chamberlain,git@camjc.com,skratchdot,git@skratchdot.com,0.2068965517241379,1.0,0.23529411764705888,0.0,0,0,0,0
+Cameron Chamberlain,hi@camjc.com,Henry Zhu,hi@henryzoo.com,0.2857142857142857,1.0,0.33333333333333337,0.1428571428571429,0,0,0,0
+Cameron Chamberlain,hi@camjc.com,Jamison Dance,hi@jamison.dance,0.4375,1.0,0.5714285714285714,0.25,0,0,0,0
+Chad Fawcett,me@chadf.ca,Chris Bianca,me@chrisbianca.com,0.41666666666666663,1.0,0.4444444444444444,0.3076923076923077,0,0,0,0
+Chad Fawcett,me@chadf.ca,Gasim Gasimzada,me@gasim.xyz,0.2222222222222222,1.0,0.2222222222222222,0.125,0,0,0,0
+Chad Fawcett,me@chadf.ca,Guilherme Oenning,me@goenning.net,0.2068965517241379,1.0,0.15384615384615385,0.1428571428571429,0,0,0,0
+Chad Fawcett,me@chadf.ca,Hugo Jobling,me@thisishugo.com,0.16666666666666663,1.0,0.25,0.0,0,0,0,0
+Chad Fawcett,me@chadf.ca,Ingvar Stepanyan,me@rreverser.com,0.2142857142857143,1.0,0.19999999999999996,0.125,0,0,0,0
+Chad Fawcett,me@chadf.ca,Jaeho Lee,me@jaeholee.org,0.2857142857142857,1.0,0.2222222222222222,0.19999999999999996,0,0,0,0
+Chad Fawcett,me@chadf.ca,Joshua Ma,me@joshma.com,0.38095238095238093,1.0,0.4,0.2222222222222222,0,0,0,0
+Chad Fawcett,me@chadf.ca,Kurt Ruppel,me@kurtruppel.com,0.17391304347826086,1.0,0.0,0.15384615384615385,0,0,0,0
+Chad Fawcett,me@chadf.ca,NISHIZAWA Shuntaro,me@s2n.tech,0.2666666666666667,1.0,0.3076923076923077,0.1333333333333333,0,0,0,0
+Chad Fawcett,me@chadf.ca,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.2777777777777778,1.0,0.5,0.09090909090909094,0,0,0,0
+Chad Fawcett,me@chadf.ca,Paul Benigeri,me@benigeri.com,0.24,1.0,0.25,0.1333333333333333,0,0,0,0
+Chad Fawcett,me@chadf.ca,Pieter Vanderwerff,me@pieter.io,0.2666666666666667,1.0,0.0,0.33333333333333337,0,0,0,0
+Chad Fawcett,me@chadf.ca,Rafael Angeline,me@rafaelangeline.com,0.2962962962962963,1.0,0.19999999999999996,0.2666666666666667,0,0,0,0
+Chad Fawcett,me@chadf.ca,Rouven Weßling,me@rouvenwessling.de,0.2222222222222222,1.0,0.0,0.2666666666666667,0,0,0,0
+Chad Fawcett,me@chadf.ca,Sunny Juneja,me@sunnyjuneja.com,0.16666666666666663,1.0,0.0,0.15384615384615385,0,0,0,0
+Cheng Lou,chenglou92@gmail.com,Cheng Lou,chenglou@fb.com,1.0,0.8888888888888888,1.0,1.0,0,0,0,0
+Chris,nc_8093@163.com,Chris,thisguychris@users.noreply.github.com,1.0,0.10526315789473684,1.0,0.0,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Gasim Gasimzada,me@gasim.xyz,0.37037037037037035,1.0,0.19999999999999996,0.4,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Guilherme Oenning,me@goenning.net,0.3448275862068966,1.0,0.2857142857142857,0.3076923076923077,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Hugo Jobling,me@thisishugo.com,0.41666666666666663,1.0,0.2222222222222222,0.46153846153846156,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Ingvar Stepanyan,me@rreverser.com,0.3571428571428571,1.0,0.18181818181818177,0.4,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Jaeho Lee,me@jaeholee.org,0.19047619047619047,1.0,0.19999999999999996,0.0,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Joshua Ma,me@joshma.com,0.2857142857142857,1.0,0.18181818181818177,0.25,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Kurt Ruppel,me@kurtruppel.com,0.17391304347826086,1.0,0.2222222222222222,0.0,0,0,0,0
+Chris Bianca,me@chrisbianca.com,NISHIZAWA Shuntaro,me@s2n.tech,0.4,1.0,0.2857142857142857,0.2857142857142857,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.38888888888888884,1.0,0.46153846153846156,0.2857142857142857,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Paul Benigeri,me@benigeri.com,0.24,1.0,0.0,0.2857142857142857,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Pieter Vanderwerff,me@pieter.io,0.2666666666666667,1.0,0.18181818181818177,0.23529411764705888,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Rafael Angeline,me@rafaelangeline.com,0.2962962962962963,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Rouven Weßling,me@rouvenwessling.de,0.2962962962962963,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Chris Bianca,me@chrisbianca.com,Sunny Juneja,me@sunnyjuneja.com,0.33333333333333337,1.0,0.19999999999999996,0.33333333333333337,0,0,0,0
+Chris Dobson,chrisdobby.dev@gmail.com,Chris Dobson,dobby@chrisjdobson.co.uk,1.0,0.5263157894736843,1.0,1.0,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Jay Phelps,hello@jayphelps.com,0.2727272727272727,1.0,0.0,0.33333333333333337,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Kay,hello@kunalpanchal.in,0.1333333333333333,1.0,0.0,0.0,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Marvin Hagemeister,hello@marvinh.dev,0.33333333333333337,1.0,0.36363636363636365,0.23529411764705888,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Philipp,hello@philippspiess.com,0.3157894736842105,1.0,0.33333333333333337,0.0,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Philipp Spiess,hello@philippspiess.com,0.3846153846153846,1.0,0.33333333333333337,0.33333333333333337,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Philipp Spieß,hello@philippspiess.com,0.3846153846153846,1.0,0.33333333333333337,0.33333333333333337,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Richard Kho,hello@richardkho.com,0.34782608695652173,1.0,0.5,0.0,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Seyi Adebajo,hello@seyinanigans.com,0.33333333333333337,1.0,0.2222222222222222,0.3076923076923077,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Simone Vittori,hello@simonewebdesign.it,0.23076923076923073,1.0,0.18181818181818177,0.15384615384615385,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Yann アウネ Eves,hello@yanneves.com,0.24,1.0,0.0,0.2857142857142857,0,0,0,0
+Chris Pearce,hello@chrispearce.me,Yasar icli,hello@yasaricli.com,0.36363636363636365,1.0,0.19999999999999996,0.19999999999999996,0,0,0,0
+Chris Pearce,hello@chrispearce.me,simonewebdesign,hello@simonewebdesign.it,0.2222222222222222,1.0,0.19999999999999996,0.0,0,0,0,0
+Chris Rebert,github@rebertia.com,Eli White,github@eli-white.com,0.2857142857142857,1.0,0.25,0.18181818181818177,0,0,0,0
+Chris Rebert,github@rebertia.com,François Best,github@francoisbest.com,0.56,1.0,0.46153846153846156,0.6,0,0,0,0
+Chris Rebert,github@rebertia.com,Jeff Kolesky,github@kolesky.com,0.16666666666666663,1.0,0.0,0.15384615384615385,0,0,0,0
+Chris Rebert,github@rebertia.com,Josh Duck,github@joshduck.com,0.19047619047619047,1.0,0.2222222222222222,0.0,0,0,0,0
+Chris Rebert,github@rebertia.com,LoganDark,github@logandark.mozmail.com,0.09523809523809523,1.0,0.1428571428571429,0.0,0,0,0,0
+Chris Rebert,github@rebertia.com,Matt Travi,github@travi.org,0.18181818181818177,1.0,0.0,0.18181818181818177,0,0,0,0
+Chris Rebert,github@rebertia.com,Michał Matyas,github@higher.lv,0.31999999999999995,1.0,0.36363636363636365,0.16666666666666663,0,0,0,0
+Chris Rebert,github@rebertia.com,PatrickJS,github@gdi2290.com,0.2857142857142857,1.0,0.4285714285714286,0.0,0,0,0,0
+Chris Rebert,github@rebertia.com,Paul Schreiber,github@paulschreiber.com,0.5384615384615384,1.0,0.0,0.6666666666666667,0,0,0,0
+Chris Rebert,github@rebertia.com,Rane Wallin,github@blasph.me,0.17391304347826086,1.0,0.2222222222222222,0.0,0,0,0,0
+Chris Rebert,github@rebertia.com,Steven Luscher,github@steveluscher.com,0.3076923076923077,1.0,0.18181818181818177,0.3076923076923077,0,0,0,0
+Chris Rebert,github@rebertia.com,Troy DeMonbreun,github@troyd.net,0.37037037037037035,1.0,0.2222222222222222,0.375,0,0,0,0
+Christoph Nakazawa,christoph.pojer@gmail.com,Christoph Nakazawa,cpojer@fb.com,1.0,0.5714285714285714,1.0,1.0,0,0,0,0
+Christoph Nakazawa,christoph.pojer@gmail.com,Christoph Pojer,christoph.pojer@gmail.com,0.6060606060606061,1.0,1.0,0.0,0,0,0,0
+Christoph Nakazawa,christoph.pojer@gmail.com,cpojer,christoph.pojer@gmail.com,0.16666666666666663,1.0,0.2666666666666667,0.0,0,0,0,0
+Christoph Nakazawa,cpojer@fb.com,Christoph Pojer,christoph.pojer@gmail.com,0.6060606060606061,0.5714285714285714,1.0,0.0,0,0,1,0
+Christoph Nakazawa,cpojer@fb.com,Christoph Pojer,cpojer@fb.com,0.6060606060606061,1.0,1.0,0.0,0,0,1,0
+Christoph Pojer,christoph.pojer@gmail.com,Christoph Pojer,cpojer@fb.com,1.0,0.5714285714285714,1.0,1.0,1,0,0,0
+Christoph Pojer,christoph.pojer@gmail.com,cpojer,christoph.pojer@gmail.com,0.5714285714285714,1.0,0.2666666666666667,0.0,0,0,0,0
+Christopher Chedeau,vjeux@fb.com,Christopher Chedeau,vjeuxx@gmail.com,1.0,0.9090909090909091,1.0,1.0,0,0,0,0
+Christopher Chedeau,vjeux@fb.com,Vjeux,vjeuxx@gmail.com,0.16666666666666663,0.9090909090909091,0.125,0.0,0,0,0,0
+Christopher Chedeau,vjeuxx@gmail.com,Vjeux,vjeuxx@gmail.com,0.16666666666666663,1.0,0.125,0.0,0,0,0,0
+Clay Tercek,code@claytercek.com,Evyatar,code@ealush.com,0.33333333333333337,1.0,0.18181818181818177,0.0,0,0,0,0
+Clement Hoang,clement.hoang24@gmail.com,Clement Hoang,clemmy@fb.com,1.0,0.38095238095238093,1.0,1.0,0,0,0,0
+CommitSyncScript,jeffmo@fb.com,Jeff Morrison,jeffmo@fb.com,0.27586206896551724,1.0,0.0,0.0,0,0,0,0
+CommitSyncScript,jeffmo@fb.com,JeffMo,jeffmo@fb.com,0.09090909090909094,1.0,0.09090909090909094,0.0,0,0,0,0
+Connor McSheffrey,c@conr.me,Connor McSheffrey,connor.mcsheffrey@gmail.com,1.0,0.11111111111111116,1.0,1.0,0,0,0,0
+Dan,dan.abramov@gmail.com,Dan Abramov,dan.abramov@gmail.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Dan,dan.abramov@gmail.com,Dan Abramov,dan.abramov@me.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Dan,dan.abramov@gmail.com,dan,dan.abramov@gmail.com,1.0,1.0,1.0,0.0,0,0,0,0
+Dan,dan.abramov@gmail.com,dan,dan.abramov@me.com,1.0,1.0,1.0,0.0,0,0,0,0
+Dan Abramov,dan.abramov@gmail.com,Dan Abramov,dan.abramov@me.com,1.0,1.0,1.0,1.0,0,0,0,0
+Dan Abramov,dan.abramov@gmail.com,Dan Abramov,gaearon@fb.com,1.0,0.4444444444444444,1.0,1.0,0,0,0,0
+Dan Abramov,dan.abramov@gmail.com,dan,dan.abramov@gmail.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Dan Abramov,dan.abramov@gmail.com,dan,dan.abramov@me.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Dan Abramov,dan.abramov@me.com,Dan Abramov,gaearon@fb.com,1.0,0.4444444444444444,1.0,1.0,0,0,0,0
+Dan Abramov,dan.abramov@me.com,dan,dan.abramov@gmail.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Dan Abramov,dan.abramov@me.com,dan,dan.abramov@me.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Daniel Friesen,daniel@nadir-seen-fire.com,Daniel Gasienica,daniel@fiftythree.com,0.6666666666666667,1.0,1.0,0.375,0,0,0,0
+Daniel Friesen,daniel@nadir-seen-fire.com,Daniel Gasienica,daniel@gasienica.ch,0.6666666666666667,1.0,1.0,0.375,0,0,0,0
+Daniel Friesen,daniel@nadir-seen-fire.com,Daniel Lo Nigro,daniel@dan.cx,0.5517241379310345,1.0,1.0,0.1333333333333333,0,0,0,0
+Daniel Friesen,daniel@nadir-seen-fire.com,Daniel Schonfeld,daniel@schonfeld.org,0.6,1.0,1.0,0.25,0,0,0,0
+Daniel Gasienica,daniel@fiftythree.com,Daniel Gasienica,daniel@gasienica.ch,1.0,1.0,1.0,1.0,0,0,0,0
+Daniel Gasienica,daniel@fiftythree.com,Daniel Gasienica,dgasienica@zynga.com,1.0,0.5,1.0,1.0,1,0,0,0
+Daniel Gasienica,daniel@fiftythree.com,Daniel Lo Nigro,daniel@dan.cx,0.5806451612903225,1.0,1.0,0.23529411764705888,0,0,0,0
+Daniel Gasienica,daniel@fiftythree.com,Daniel Schonfeld,daniel@schonfeld.org,0.5625,1.0,1.0,0.2222222222222222,0,0,0,0
+Daniel Gasienica,daniel@gasienica.ch,Daniel Gasienica,dgasienica@zynga.com,1.0,0.5,1.0,1.0,1,0,0,0
+Daniel Gasienica,daniel@gasienica.ch,Daniel Lo Nigro,daniel@dan.cx,0.5806451612903225,1.0,1.0,0.23529411764705888,0,0,0,0
+Daniel Gasienica,daniel@gasienica.ch,Daniel Schonfeld,daniel@schonfeld.org,0.5625,1.0,1.0,0.2222222222222222,0,0,0,0
+Daniel Lo Nigro,d@d.sb,Daniel Lo Nigro,daniel@dan.cx,1.0,0.2857142857142857,1.0,1.0,0,0,0,0
+Daniel Lo Nigro,d@d.sb,Daniel Lo Nigro,danlo@fb.com,1.0,0.33333333333333337,1.0,1.0,0,0,0,0
+Daniel Lo Nigro,d@d.sb,Dave Lunny,d@velunny.com,0.48,1.0,0.6,0.3076923076923077,0,0,0,0
+Daniel Lo Nigro,daniel@dan.cx,Daniel Lo Nigro,danlo@fb.com,1.0,0.7272727272727273,1.0,1.0,0,0,0,0
+Daniel Lo Nigro,daniel@dan.cx,Daniel Schonfeld,daniel@schonfeld.org,0.5806451612903225,1.0,1.0,0.23529411764705888,0,0,0,0
+David Beitey,david@davidjb.com,David Ed Mellum,david@edmellum.com,0.5925925925925926,1.0,1.0,0.2666666666666667,0,0,0,0
+David Beitey,david@davidjb.com,David Hellsing,david@aino.se,0.6153846153846154,1.0,1.0,0.2857142857142857,0,0,0,0
+David Ed Mellum,david@edmellum.com,David Hellsing,david@aino.se,0.6206896551724138,1.0,1.0,0.3529411764705882,0,0,0,0
+David Hu,davidhu314@gmail.com,David Hu,davidhu91@gmail.com,1.0,0.8421052631578947,1.0,1.0,0,0,0,0
+Dawid Małecki,dawid.malecki21@gmail.com,Dawid Małecki,maleckidawid@meta.com,1.0,0.5185185185185186,1.0,1.0,0,0,0,0
+Denis Laxalde,denis@laxalde.org,Denis Sokolov,denis@sokolov.cc,0.5384615384615384,1.0,1.0,0.1428571428571429,0,0,0,0
+Denis Laxalde,denis@laxalde.org,songawee,dennis@songawee.com,0.2857142857142857,0.9090909090909091,0.15384615384615385,0.0,0,0,0,0
+Denis Sokolov,denis@sokolov.cc,songawee,dennis@songawee.com,0.19047619047619047,0.9090909090909091,0.15384615384615385,0.0,0,0,0,0
+Dmitrii Abramov,dmitrii@abramov.io,Dmitrii Abramov,dmitrii@rheia.us,1.0,1.0,1.0,1.0,0,0,0,0
+Dmitry,44238060+h4x0rlol@users.noreply.github.com,dmitry,dmitri.blyus@gmail.com,1.0,0.13793103448275867,1.0,0.0,0,0,0,0
+Dominic Gannaway,dg@domgan.com,Dominic Gannaway,trueadm@users.noreply.github.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Edvin Erikson,edvin@rocketblast.com,Edvin Erikson,edvinerikson@gmail.com,1.0,0.5882352941176471,1.0,1.0,0,0,0,0
+Eli White,eliwhite@fb.com,Eli White,github@eli-white.com,1.0,0.2857142857142857,1.0,1.0,0,0,0,0
+Eli White,github@eli-white.com,François Best,github@francoisbest.com,0.2727272727272727,1.0,0.18181818181818177,0.2222222222222222,0,0,0,0
+Eli White,github@eli-white.com,Jeff Kolesky,github@kolesky.com,0.2857142857142857,1.0,0.2857142857142857,0.16666666666666663,0,0,0,0
+Eli White,github@eli-white.com,Josh Duck,github@joshduck.com,0.11111111111111116,1.0,0.0,0.0,0,0,0,0
+Eli White,github@eli-white.com,LoganDark,github@logandark.mozmail.com,0.11111111111111116,1.0,0.16666666666666663,0.0,0,0,0,0
+Eli White,github@eli-white.com,Matt Travi,github@travi.org,0.21052631578947367,1.0,0.0,0.19999999999999996,0,0,0,0
+Eli White,github@eli-white.com,Michał Matyas,github@higher.lv,0.2727272727272727,1.0,0.2222222222222222,0.18181818181818177,0,0,0,0
+Eli White,github@eli-white.com,PatrickJS,github@gdi2290.com,0.11111111111111116,1.0,0.16666666666666663,0.0,0,0,0,0
+Eli White,github@eli-white.com,Paul Schreiber,github@paulschreiber.com,0.4347826086956522,1.0,0.2857142857142857,0.4285714285714286,0,0,0,0
+Eli White,github@eli-white.com,Rane Wallin,github@blasph.me,0.4,1.0,0.2857142857142857,0.36363636363636365,0,0,0,0
+Eli White,github@eli-white.com,Steven Luscher,github@steveluscher.com,0.34782608695652173,1.0,0.2222222222222222,0.33333333333333337,0,0,0,0
+Eli White,github@eli-white.com,Troy DeMonbreun,github@troyd.net,0.16666666666666663,1.0,0.0,0.1333333333333333,0,0,0,0
+Eric Eastwood,contact@ericeastwood.com,Georgios Giannoutsos Barkas,contact@nuc.gr,0.35,1.0,0.5,0.23076923076923073,0,0,0,0
+Eric Eastwood,contact@ericeastwood.com,Max,contact@mstoiber.com,0.125,1.0,0.0,0.0,0,0,0,0
+Eric Eastwood,contact@ericeastwood.com,Steven Vachon,contact@svachon.com,0.3076923076923077,1.0,0.19999999999999996,0.2857142857142857,0,0,0,0
+Esteban,elas7@users.noreply.github.com,Esteban,lasesteban@gmail.com,1.0,0.4,1.0,0.0,0,0,0,0
+Evan Jacobs,evan@yaycmyk.com,Evan Jacobs,probablyup@gmail.com,1.0,0.1428571428571429,1.0,1.0,0,0,0,0
+Evan Jacobs,evan@yaycmyk.com,evanc,evan@paloalto.com,0.625,1.0,0.8888888888888888,0.0,0,0,0,0
+Fabio Costa,fabs@fb.com,Fabio M. Costa,fabiomcosta@gmail.com,0.9166666666666666,0.5333333333333333,1.0,0.8333333333333334,0,0,0,0
+Facebook Community Bot,facebook-github-bot@users.noreply.github.com,Facebook GitHub Bot,facebook-github-bot@users.noreply.github.com,0.7317073170731707,1.0,1.0,0.5217391304347826,0,0,0,0
+Farhad Yasir,farhad.yasir.nb@gmail.com,Farhad Yasir,iraz2426@gmail.com,1.0,0.17391304347826086,1.0,1.0,0,0,0,0
+Felix Kling,felix.kling@gmx.net,Felix Kling,fkling@fb.com,1.0,0.7058823529411764,1.0,1.0,1,0,0,0
+Felix Wu,mail@flxwu.com,Fokke Zandbergen,mail@fokkezb.nl,0.25,1.0,0.4,0.0,0,0,0,0
+Felix Wu,mail@flxwu.com,Hendrik Liebau,mail@hendrik-liebau.de,0.36363636363636365,1.0,0.33333333333333337,0.25,0,0,0,0
+Felix Wu,mail@flxwu.com,Lenz Weber-Tronic,mail@lenzw.de,0.25,1.0,0.2222222222222222,0.15384615384615385,0,0,0,0
+Felix Wu,mail@flxwu.com,Matias Singers,mail@matiassingers.com,0.18181818181818177,1.0,0.18181818181818177,0.0,0,0,0,0
+Felix Wu,mail@flxwu.com,translucens,mail@w-st.com,0.21052631578947367,1.0,0.125,0.0,0,0,0,0
+Flarnie Marchan,flarnie@users.noreply.github.com,Flarnie Marchan,fnonemaker@gmail.com,1.0,0.3529411764705882,1.0,1.0,0,0,0,0
+Fokke Zandbergen,mail@fokkezb.nl,Hendrik Liebau,mail@hendrik-liebau.de,0.33333333333333337,1.0,0.16666666666666663,0.125,0,0,0,0
+Fokke Zandbergen,mail@fokkezb.nl,Lenz Weber-Tronic,mail@lenzw.de,0.375,1.0,0.2222222222222222,0.38095238095238093,0,0,0,0
+Fokke Zandbergen,mail@fokkezb.nl,Matias Singers,mail@matiassingers.com,0.2666666666666667,1.0,0.0,0.3529411764705882,0,0,0,0
+Fokke Zandbergen,mail@fokkezb.nl,translucens,mail@w-st.com,0.2962962962962963,1.0,0.125,0.0,0,0,0,0
+François Best,github@francoisbest.com,Jeff Kolesky,github@kolesky.com,0.31999999999999995,1.0,0.16666666666666663,0.36363636363636365,0,0,0,0
+François Best,github@francoisbest.com,Josh Duck,github@joshduck.com,0.2727272727272727,1.0,0.33333333333333337,0.0,0,0,0,0
+François Best,github@francoisbest.com,LoganDark,github@logandark.mozmail.com,0.18181818181818177,1.0,0.23529411764705888,0.0,0,0,0,0
+François Best,github@francoisbest.com,Matt Travi,github@travi.org,0.26086956521739135,1.0,0.16666666666666663,0.2222222222222222,0,0,0,0
+François Best,github@francoisbest.com,Michał Matyas,github@higher.lv,0.23076923076923073,1.0,0.1428571428571429,0.19999999999999996,0,0,0,0
+François Best,github@francoisbest.com,PatrickJS,github@gdi2290.com,0.2727272727272727,1.0,0.3529411764705882,0.0,0,0,0,0
+François Best,github@francoisbest.com,Paul Schreiber,github@paulschreiber.com,0.37037037037037035,1.0,0.16666666666666663,0.3076923076923077,0,0,0,0
+François Best,github@francoisbest.com,Rane Wallin,github@blasph.me,0.33333333333333337,1.0,0.5,0.0,0,0,0,0
+François Best,github@francoisbest.com,Steven Luscher,github@steveluscher.com,0.2222222222222222,1.0,0.1428571428571429,0.18181818181818177,0,0,0,0
+François Best,github@francoisbest.com,Troy DeMonbreun,github@troyd.net,0.3571428571428571,1.0,0.33333333333333337,0.2857142857142857,0,0,0,0
+Gabe Levi,gabelevi@gmail.com,Gabe Levi,glevi@fb.com,1.0,0.7692307692307692,1.0,1.0,1,0,0,0
+Gajus Kuizinas,g.kuizinas@anuary.com,Gajus Kuizinas,gajus@gajus.com,1.0,0.4,1.0,1.0,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Guilherme Oenning,me@goenning.net,0.3125,1.0,0.4285714285714286,0.125,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Hugo Jobling,me@thisishugo.com,0.2222222222222222,1.0,0.2222222222222222,0.125,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Ingvar Stepanyan,me@rreverser.com,0.3870967741935484,1.0,0.36363636363636365,0.33333333333333337,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Jaeho Lee,me@jaeholee.org,0.16666666666666663,1.0,0.19999999999999996,0.0,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Joshua Ma,me@joshma.com,0.33333333333333337,1.0,0.18181818181818177,0.36363636363636365,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Kurt Ruppel,me@kurtruppel.com,0.07692307692307687,1.0,0.0,0.0,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,NISHIZAWA Shuntaro,me@s2n.tech,0.36363636363636365,1.0,0.2857142857142857,0.23529411764705888,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.3076923076923077,1.0,0.3076923076923077,0.25,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Paul Benigeri,me@benigeri.com,0.2857142857142857,1.0,0.2222222222222222,0.23529411764705888,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Pieter Vanderwerff,me@pieter.io,0.24242424242424243,1.0,0.18181818181818177,0.19999999999999996,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Rafael Angeline,me@rafaelangeline.com,0.2666666666666667,1.0,0.18181818181818177,0.23529411764705888,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Rouven Weßling,me@rouvenwessling.de,0.19999999999999996,1.0,0.0,0.23529411764705888,0,0,0,0
+Gasim Gasimzada,me@gasim.xyz,Sunny Juneja,me@sunnyjuneja.com,0.2222222222222222,1.0,0.19999999999999996,0.1333333333333333,0,0,0,0
+George A Sisco III,george.sisco@gmail.com,georgesisco,george.sisco@gmail.com,0.7586206896551724,1.0,0.7058823529411764,0.0,0,0,0,0
+Georgios Giannoutsos Barkas,contact@nuc.gr,Max,contact@mstoiber.com,0.06666666666666665,1.0,0.0,0.0,0,0,0,0
+Georgios Giannoutsos Barkas,contact@nuc.gr,Steven Vachon,contact@svachon.com,0.19999999999999996,1.0,0.1428571428571429,0.16666666666666663,0,0,0,0
+Gert Hengeveld,info@ghengeveld.nl,Michaël De Boey,info@michaeldeboey.be,0.27586206896551724,1.0,0.18181818181818177,0.25,0,0,0,0
+Gert Hengeveld,info@ghengeveld.nl,Patrick,info@telepark.de,0.09523809523809523,1.0,0.18181818181818177,0.0,0,0,0,0
+Gert Hengeveld,info@ghengeveld.nl,Pontus Abrahamsson,info@wdlinkoping.se,0.25,1.0,0.19999999999999996,0.19999999999999996,0,0,0,0
+Greg Hurrell,glh@fb.com,Greg Hurrell,greg@hurrell.net,1.0,0.2857142857142857,1.0,1.0,0,0,0,0
+Guido Bouman,m@guido.vc,Marius Craciunoiu,m@m23.io,0.27586206896551724,1.0,0.18181818181818177,0.25,0,0,0,0
+Guido Bouman,m@guido.vc,Matt Kane,m@mk.gg,0.2857142857142857,1.0,0.0,0.4,0,0,0,0
+Guido Bouman,m@guido.vc,Matthew Dapena-Tretter,m@tthewwithanm.com,0.18181818181818177,1.0,0.0,0.21052631578947367,0,0,0,0
+Guilherme Oenning,me@goenning.net,Hugo Jobling,me@thisishugo.com,0.4137931034482759,1.0,0.15384615384615385,0.5714285714285714,0,0,0,0
+Guilherme Oenning,me@goenning.net,Ingvar Stepanyan,me@rreverser.com,0.36363636363636365,1.0,0.2666666666666667,0.375,0,0,0,0
+Guilherme Oenning,me@goenning.net,Jaeho Lee,me@jaeholee.org,0.23076923076923073,1.0,0.1428571428571429,0.19999999999999996,0,0,0,0
+Guilherme Oenning,me@goenning.net,Joshua Ma,me@joshma.com,0.15384615384615385,1.0,0.1333333333333333,0.0,0,0,0,0
+Guilherme Oenning,me@goenning.net,Kurt Ruppel,me@kurtruppel.com,0.2857142857142857,1.0,0.3076923076923077,0.15384615384615385,0,0,0,0
+Guilherme Oenning,me@goenning.net,NISHIZAWA Shuntaro,me@s2n.tech,0.22857142857142854,1.0,0.2222222222222222,0.1333333333333333,0,0,0,0
+Guilherme Oenning,me@goenning.net,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.3414634146341463,1.0,0.23529411764705888,0.2727272727272727,0,0,0,0
+Guilherme Oenning,me@goenning.net,Paul Benigeri,me@benigeri.com,0.4666666666666667,1.0,0.3076923076923077,0.5333333333333333,0,0,0,0
+Guilherme Oenning,me@goenning.net,Pieter Vanderwerff,me@pieter.io,0.2857142857142857,1.0,0.4,0.11111111111111116,0,0,0,0
+Guilherme Oenning,me@goenning.net,Rafael Angeline,me@rafaelangeline.com,0.375,1.0,0.2666666666666667,0.4,0,0,0,0
+Guilherme Oenning,me@goenning.net,Rouven Weßling,me@rouvenwessling.de,0.4375,1.0,0.2666666666666667,0.5333333333333333,0,0,0,0
+Guilherme Oenning,me@goenning.net,Sunny Juneja,me@sunnyjuneja.com,0.27586206896551724,1.0,0.1428571428571429,0.15384615384615385,0,0,0,0
+Gustavo Saiani,gustavo.saiani@emcasa.com,Gustavo Saiani,gustavo@poe.ma,1.0,0.6666666666666667,1.0,1.0,0,0,0,0
+Heaven,ne_smalltown@163.com,NE-SmallTown,ne_smalltown@163.com,0.3529411764705882,1.0,0.3529411764705882,0.0,0,0,0,0
+Hendrik Liebau,mail@hendrik-liebau.de,Lenz Weber-Tronic,mail@lenzw.de,0.33333333333333337,1.0,0.36363636363636365,0.23529411764705888,0,0,0,0
+Hendrik Liebau,mail@hendrik-liebau.de,Matias Singers,mail@matiassingers.com,0.2857142857142857,1.0,0.15384615384615385,0.3076923076923077,0,0,0,0
+Hendrik Liebau,mail@hendrik-liebau.de,translucens,mail@w-st.com,0.24,1.0,0.2222222222222222,0.0,0,0,0,0
+Henry Zhu,hi@henryzoo.com,Jamison Dance,hi@jamison.dance,0.18181818181818177,1.0,0.16666666666666663,0.0,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Ingvar Stepanyan,me@rreverser.com,0.2142857142857143,1.0,0.19999999999999996,0.125,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Jaeho Lee,me@jaeholee.org,0.38095238095238093,1.0,0.4444444444444444,0.19999999999999996,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Joshua Ma,me@joshma.com,0.2857142857142857,1.0,0.4,0.0,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Kurt Ruppel,me@kurtruppel.com,0.26086956521739135,1.0,0.25,0.15384615384615385,0,0,0,0
+Hugo Jobling,me@thisishugo.com,NISHIZAWA Shuntaro,me@s2n.tech,0.19999999999999996,1.0,0.15384615384615385,0.1333333333333333,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.2777777777777778,1.0,0.33333333333333337,0.18181818181818177,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Paul Benigeri,me@benigeri.com,0.4,1.0,0.25,0.4,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Pieter Vanderwerff,me@pieter.io,0.1333333333333333,1.0,0.0,0.11111111111111116,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Rafael Angeline,me@rafaelangeline.com,0.2962962962962963,1.0,0.0,0.4,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Rouven Weßling,me@rouvenwessling.de,0.4444444444444444,1.0,0.19999999999999996,0.5333333333333333,0,0,0,0
+Hugo Jobling,me@thisishugo.com,Sunny Juneja,me@sunnyjuneja.com,0.33333333333333337,1.0,0.2222222222222222,0.3076923076923077,0,0,0,0
+Héctor Ramos,165856+hramos@users.noreply.github.com,Héctor Ramos,hramos@users.noreply.github.com,1.0,0.631578947368421,1.0,1.0,1,0,0,0
+Ian Obermiller,ian@obermillers.com,Ian Obermiller,iano@fb.com,1.0,0.8571428571428572,1.0,1.0,0,0,0,0
+Ian Obermiller,ian@obermillers.com,Ian Sutherland,ian@iansutherland.ca,0.5,1.0,1.0,0.30000000000000004,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Jaeho Lee,me@jaeholee.org,0.24,1.0,0.18181818181818177,0.16666666666666663,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Joshua Ma,me@joshma.com,0.24,1.0,0.16666666666666663,0.18181818181818177,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Kurt Ruppel,me@kurtruppel.com,0.2222222222222222,1.0,0.19999999999999996,0.1333333333333333,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,NISHIZAWA Shuntaro,me@s2n.tech,0.3529411764705882,1.0,0.2666666666666667,0.3529411764705882,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.25,1.0,0.2857142857142857,0.16666666666666663,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Paul Benigeri,me@benigeri.com,0.27586206896551724,1.0,0.19999999999999996,0.23529411764705888,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Pieter Vanderwerff,me@pieter.io,0.2941176470588235,1.0,0.33333333333333337,0.19999999999999996,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Rafael Angeline,me@rafaelangeline.com,0.32258064516129037,1.0,0.16666666666666663,0.3529411764705882,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Rouven Weßling,me@rouvenwessling.de,0.25806451612903225,1.0,0.16666666666666663,0.23529411764705888,0,0,0,0
+Ingvar Stepanyan,me@rreverser.com,Sunny Juneja,me@sunnyjuneja.com,0.2857142857142857,1.0,0.18181818181818177,0.2666666666666667,0,0,0,0
+Iurii Kucherov,yuyokk@gmail.com,iurii kucherov,yuyokk@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Ivan,15101126742@163.com,Ivan,janczer@users.noreply.github.com,1.0,0.0,1.0,0.0,0,0,0,0
+Ivan Vergiliev,ivan.vergiliev@gmail.com,IvanVergiliev,ivan.vergiliev@gmail.com,0.962962962962963,1.0,0.47058823529411764,0.0,0,0,0,0
+Ives van Hoorne,Ives.v.h@gmail.com,Ives van Hoorne,ives@codesandbox.io,1.0,0.5,1.0,1.0,0,0,0,0
+Jack,jack@jackmarchant.com,Jack Youstra,jack@youstra.com,0.5,1.0,1.0,0.0,0,0,0,0
+Jack Works,5390719+Jack-Works@users.noreply.github.com,Jack Works,jackworks@protonmail.com,1.0,0.5185185185185186,1.0,1.0,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Joshua Ma,me@joshma.com,0.33333333333333337,1.0,0.36363636363636365,0.0,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Kurt Ruppel,me@kurtruppel.com,0.19999999999999996,1.0,0.0,0.2222222222222222,0,0,0,0
+Jaeho Lee,me@jaeholee.org,NISHIZAWA Shuntaro,me@s2n.tech,0.2222222222222222,1.0,0.1428571428571429,0.0,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.24242424242424243,1.0,0.3076923076923077,0.11111111111111116,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Paul Benigeri,me@benigeri.com,0.36363636363636365,1.0,0.2222222222222222,0.36363636363636365,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Pieter Vanderwerff,me@pieter.io,0.2962962962962963,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Rafael Angeline,me@rafaelangeline.com,0.41666666666666663,1.0,0.36363636363636365,0.36363636363636365,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Rouven Weßling,me@rouvenwessling.de,0.25,1.0,0.18181818181818177,0.18181818181818177,0,0,0,0
+Jaeho Lee,me@jaeholee.org,Sunny Juneja,me@sunnyjuneja.com,0.19047619047619047,1.0,0.0,0.2222222222222222,0,0,0,0
+Jakub Romańczyk,jakub.romanczyk@callstack.com,Jakub Romańczyk,lorczyslav@gmail.com,1.0,0.31999999999999995,1.0,1.0,0,0,0,0
+James,james@mystrata.com,James Friend,james@jsdf.co,0.5882352941176471,1.0,1.0,0.0,0,0,0,0
+James,james@mystrata.com,James Friend,james@kitefire.com,0.5882352941176471,1.0,1.0,0.0,0,0,0,0
+James,james@mystrata.com,James Vaughan,james@jamesbvaughan.com,0.5555555555555556,1.0,1.0,0.0,0,0,0,0
+James,james@mystrata.com,jbrantly,james@jbrantly.com,0.3076923076923077,1.0,0.3076923076923077,0.0,0,0,0,0
+James Friend,james@jsdf.co,James Friend,james@kitefire.com,1.0,1.0,1.0,1.0,0,0,0,0
+James Friend,james@jsdf.co,James Vaughan,james@jamesbvaughan.com,0.56,1.0,1.0,0.15384615384615385,0,0,0,0
+James Friend,james@jsdf.co,jbrantly,james@jbrantly.com,0.30000000000000004,1.0,0.3076923076923077,0.0,0,0,0,0
+James Friend,james@kitefire.com,James Vaughan,james@jamesbvaughan.com,0.56,1.0,1.0,0.15384615384615385,0,0,0,0
+James Friend,james@kitefire.com,jbrantly,james@jbrantly.com,0.30000000000000004,1.0,0.3076923076923077,0.0,0,0,0,0
+James Ide,ide@fb.com,James Ide,ide@users.noreply.github.com,1.0,1.0,1.0,1.0,0,0,0,0
+James Vaughan,james@jamesbvaughan.com,jbrantly,james@jbrantly.com,0.2857142857142857,1.0,0.3076923076923077,0.0,0,0,0,0
+Jamison Dance,hi@jamison.dance,Jamison Dance,jergason@gmail.com,1.0,0.0,1.0,1.0,0,0,0,0
+Jan Amann,jan@amann.work,Jan Kassens,jan@kassens.net,0.6,1.0,1.0,0.33333333333333337,0,0,0,0
+Jan Amann,jan@amann.work,Jan Pöschko,jan@poeschko.com,0.4,1.0,1.0,0.0,0,0,0,0
+Jan Amann,jan@amann.work,Jan Raasch,jan@janraasch.com,0.631578947368421,1.0,1.0,0.36363636363636365,0,0,0,0
+Jan Hancic,jan.hancic@caplin.com,Jan Hancic,jan.hancic@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Jan Kassens,jan@kassens.net,Jan Kassens,jkassens@fb.com,1.0,0.5454545454545454,1.0,1.0,1,0,0,0
+Jan Kassens,jan@kassens.net,Jan Kassens,jkassens@meta.com,1.0,0.5454545454545454,1.0,1.0,1,0,0,0
+Jan Kassens,jan@kassens.net,Jan Pöschko,jan@poeschko.com,0.4545454545454546,1.0,1.0,0.1428571428571429,0,0,0,0
+Jan Kassens,jan@kassens.net,Jan Raasch,jan@janraasch.com,0.5714285714285714,1.0,1.0,0.3076923076923077,0,0,0,0
+Jan Kassens,jkassens@fb.com,Jan Kassens,jkassens@meta.com,1.0,1.0,1.0,1.0,1,0,1,0
+Jan Pöschko,jan@poeschko.com,Jan Raasch,jan@janraasch.com,0.6666666666666667,1.0,1.0,0.46153846153846156,0,0,0,0
+Jared Forsyth,jared@jaredforsyth.com,Jarred Sumner,jarred@jarredsumner.com,0.5384615384615384,0.9090909090909091,0.9090909090909091,0.15384615384615385,0,0,0,0
+Jason Bonta,jasonbonta@fb.com,Jason Bonta,jbonta@gmail.com,1.0,0.75,1.0,1.0,1,0,0,0
+Jason Miller,aidenn0@geocities.com,Jason Miller,developit@users.noreply.github.com,1.0,0.25,1.0,1.0,0,0,0,0
+Jason Quense,monastic.panic@gmail.com,jquense,monastic.panic@gmail.com,0.736842105263158,1.0,0.33333333333333337,0.0,0,0,0,0
+Jason Webster,jason@metalabdesign.com,jjt,jason@jasontrill.com,0.25,1.0,0.25,0.0,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Kay,hello@kunalpanchal.in,0.3076923076923077,1.0,0.6666666666666667,0.0,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Marvin Hagemeister,hello@marvinh.dev,0.3571428571428571,1.0,0.2222222222222222,0.3529411764705882,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Philipp,hello@philippspiess.com,0.47058823529411764,1.0,0.0,0.0,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Philipp Spiess,hello@philippspiess.com,0.41666666666666663,1.0,0.0,0.5,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Philipp Spieß,hello@philippspiess.com,0.41666666666666663,1.0,0.0,0.5,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Richard Kho,hello@richardkho.com,0.2857142857142857,1.0,0.19999999999999996,0.2222222222222222,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Seyi Adebajo,hello@seyinanigans.com,0.2727272727272727,1.0,0.2857142857142857,0.15384615384615385,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Simone Vittori,hello@simonewebdesign.it,0.08333333333333337,1.0,0.0,0.0,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Yann アウネ Eves,hello@yanneves.com,0.34782608695652173,1.0,0.2857142857142857,0.2857142857142857,0,0,0,0
+Jay Phelps,hello@jayphelps.com,Yasar icli,hello@yasaricli.com,0.30000000000000004,1.0,0.25,0.19999999999999996,0,0,0,0
+Jay Phelps,hello@jayphelps.com,simonewebdesign,hello@simonewebdesign.it,0.16000000000000003,1.0,0.0,0.0,0,0,0,0
+Jed Watson,jed.watson@me.com,John Watson,jwatson@fb.com,0.7619047619047619,0.8235294117647058,0.2857142857142857,1.0,1,0,0,0
+Jeff Chan,jeff@quizlet.com,Jeff Chan,jefftchan@gmail.com,1.0,0.6153846153846154,1.0,1.0,0,0,0,0
+Jeff Chan,jeff@quizlet.com,jeffmo,jeff@anafx.com,0.5333333333333333,1.0,0.8,0.0,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Josh Duck,github@joshduck.com,0.38095238095238093,1.0,0.25,0.18181818181818177,0,0,0,0
+Jeff Kolesky,github@kolesky.com,LoganDark,github@logandark.mozmail.com,0.19047619047619047,1.0,0.0,0.0,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Matt Travi,github@travi.org,0.09090909090909094,1.0,0.0,0.0,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Michał Matyas,github@higher.lv,0.16000000000000003,1.0,0.0,0.15384615384615385,0,0,0,0
+Jeff Kolesky,github@kolesky.com,PatrickJS,github@gdi2290.com,0.19047619047619047,1.0,0.15384615384615385,0.0,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Paul Schreiber,github@paulschreiber.com,0.15384615384615385,1.0,0.0,0.125,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Rane Wallin,github@blasph.me,0.26086956521739135,1.0,0.25,0.15384615384615385,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Steven Luscher,github@steveluscher.com,0.3076923076923077,1.0,0.19999999999999996,0.2857142857142857,0,0,0,0
+Jeff Kolesky,github@kolesky.com,Troy DeMonbreun,github@troyd.net,0.2222222222222222,1.0,0.0,0.23529411764705888,0,0,0,0
+Jeff Morrison,Jeff@anafx.com,Jeff Morrison,jeffmo@fb.com,1.0,0.6,1.0,1.0,0,0,0,0
+Jeff Morrison,Jeff@anafx.com,Jeff Morrison,lbljeffmo@gmail.com,1.0,0.46153846153846156,1.0,1.0,0,0,0,0
+Jeff Morrison,jeffmo@fb.com,Jeff Morrison,lbljeffmo@gmail.com,1.0,0.8,1.0,1.0,0,0,0,0
+Jeff Morrison,jeffmo@fb.com,JeffMo,jeffmo@fb.com,0.631578947368421,1.0,0.8,0.0,0,0,0,0
+Jeff Morrison,lbljeffmo@gmail.com,jeffmo,lbljeffmo@gmail.com,0.631578947368421,1.0,0.8,0.0,0,0,0,0
+JeffMo,jeffmo@fb.com,jeffmo,jeff@anafx.com,1.0,0.8,1.0,0.0,0,0,0,0
+JeffMo,jeffmo@fb.com,jeffmo,lbljeffmo@gmail.com,1.0,0.8,1.0,0.0,0,0,0,0
+Jeffrey Lin,jeffreylin@fb.com,Jeffrey Lin,lin.jeffrey@gmail.com,1.0,0.6666666666666667,1.0,1.0,0,0,0,0
+Jessica,jessicamfranco3@gmail.com,Jessica Franco,jessicamfranco3@gmail.com,0.6666666666666667,1.0,1.0,0.0,0,0,0,0
+Jessica Franco,jessica@jessidhia.dev,Jessica Franco,jessicamfranco3@gmail.com,1.0,0.6363636363636364,1.0,1.0,0,0,0,0
+Jim,jsfb@github,Jim,jsproch@fb.com,1.0,0.36363636363636365,1.0,0.0,0,0,0,0
+Jim,jsfb@github,jim,jsproch@fb.com,1.0,0.36363636363636365,1.0,0.0,0,0,0,0
+Jim,jsfb@github,jim,none@no-reply.com,1.0,0.0,1.0,0.0,0,0,0,0
+Jim,jsproch@fb.com,jim,jsproch@fb.com,1.0,1.0,1.0,0.0,0,0,0,0
+Jim,jsproch@fb.com,jim,none@no-reply.com,1.0,0.18181818181818177,1.0,0.0,0,0,0,0
+Jim,jsproch@fb.com,jsfb,jsproch@fb.com,0.2857142857142857,1.0,0.2857142857142857,0.0,0,0,0,0
+Jimmy Jea,jimjea@gmail.com,jimjea,jimjea@gmail.com,0.8,1.0,0.5454545454545454,0.0,0,0,0,0
+Joe Savona,joesavona@fb.com,Joseph Savona,joesavona@fb.com,0.8695652173913043,1.0,0.6666666666666667,1.0,0,0,0,0
+Joey Arhar,jarhar@chromium.org,Joey Arhar,josepharhar@gmail.com,1.0,0.7058823529411764,1.0,1.0,0,0,1,0
+Johannes Emerich,johannes@emerich.de,Johannes Lumpe,johannes@johanneslumpe.de,0.7333333333333334,1.0,1.0,0.33333333333333337,0,0,0,0
+John Wilson,irewilson@gmail.com,Josh Wilson,joshwilsonvu@gmail.com,0.9090909090909091,0.5714285714285714,0.75,1.0,0,0,0,0
+Jon Hester,jon.d.hester@gmail.com,jonchester,jonchester@fb.com,0.9,0.8181818181818181,0.46153846153846156,0.0,0,0,0,0
+Jon Janzen,6403568+bigfootjon@users.noreply.github.com,Jon Janzen,jon@jonjanzen.com,1.0,0.2857142857142857,1.0,1.0,0,0,0,0
+Jon Janzen,jon@jonjanzen.com,jon madison,jon@tfftech.com,0.5714285714285714,1.0,1.0,0.3076923076923077,0,0,0,0
+Jordan Brown,jmbrown@fb.com,Jordan Brown,jmbrown@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Jordan Brown,jmbrown@fb.com,Jordan Brown,jordanbrown215@gmail.com,1.0,0.5714285714285714,1.0,1.0,0,0,0,0
+Jordan Brown,jmbrown@meta.com,Jordan Brown,jordanbrown215@gmail.com,1.0,0.5714285714285714,1.0,1.0,0,0,0,0
+Jordan Eldredge,jeldredge@meta.com,Jordan Eldredge,jordan@jordaneldredge.com,1.0,0.4,1.0,1.0,0,0,1,0
+Jordan Eldredge,jordan@jordaneldredge.com,Jordan Rome,jordan@jordanrome.com,0.6923076923076923,1.0,1.0,0.33333333333333337,0,0,0,0
+Jordan W,jordojw@gmail.com,Jordan Walke,jordojw@gmail.com,0.8,1.0,1.0,0.33333333333333337,0,0,0,0
+Jordan W,jordojw@gmail.com,jordow,jordojw@gmail.com,0.7142857142857143,1.0,0.6666666666666667,0.0,0,0,0,0
+Jordan Walke,jordanjcw@fb.com,Jordan Walke,jordojw@gmail.com,1.0,0.75,1.0,1.0,0,0,0,0
+Jordan Walke,jordojw@gmail.com,jordow,jordojw@gmail.com,0.5555555555555556,1.0,0.6666666666666667,0.0,0,0,0,0
+Joseph Savona,6425824+josephsavona@users.noreply.github.com,Joseph Savona,joesavona@fb.com,1.0,0.6206896551724138,1.0,1.0,0,0,0,0
+Joseph Savona,6425824+josephsavona@users.noreply.github.com,Joseph Savona,josephsavona@users.noreply.github.com,1.0,0.75,1.0,1.0,0,0,0,0
+Joseph Savona,joesavona@fb.com,Joseph Savona,josephsavona@users.noreply.github.com,1.0,0.8571428571428572,1.0,1.0,0,0,0,0
+Josh Duck,github@joshduck.com,Josh Duck,josh@fb.com,1.0,0.19999999999999996,1.0,1.0,0,0,0,0
+Josh Duck,github@joshduck.com,LoganDark,github@logandark.mozmail.com,0.33333333333333337,1.0,0.15384615384615385,0.0,0,0,0,0
+Josh Duck,github@joshduck.com,Matt Travi,github@travi.org,0.10526315789473684,1.0,0.0,0.0,0,0,0,0
+Josh Duck,github@joshduck.com,Michał Matyas,github@higher.lv,0.18181818181818177,1.0,0.19999999999999996,0.0,0,0,0,0
+Josh Duck,github@joshduck.com,PatrickJS,github@gdi2290.com,0.2222222222222222,1.0,0.3076923076923077,0.0,0,0,0,0
+Josh Duck,github@joshduck.com,Paul Schreiber,github@paulschreiber.com,0.17391304347826086,1.0,0.0,0.15384615384615385,0,0,0,0
+Josh Duck,github@joshduck.com,Rane Wallin,github@blasph.me,0.09999999999999998,1.0,0.0,0.0,0,0,0,0
+Josh Duck,github@joshduck.com,Steven Luscher,github@steveluscher.com,0.34782608695652173,1.0,0.19999999999999996,0.36363636363636365,0,0,0,0
+Josh Duck,github@joshduck.com,Troy DeMonbreun,github@troyd.net,0.33333333333333337,1.0,0.25,0.2857142857142857,0,0,0,0
+Josh Duck,josh@fb.com,Josh Hunt,josh@trtr.co,0.6666666666666667,1.0,1.0,0.25,0,0,0,0
+Josh Duck,josh@fb.com,Josh Perez,josh@goatslacker.com,0.5263157894736843,1.0,1.0,0.0,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Julien Bordellier,git@julienbordellier.com,0.375,1.0,0.19999999999999996,0.4,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Orta Therox,git@orta.io,0.3076923076923077,1.0,0.25,0.25,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Remko Tronçon,git@el-tramo.be,0.2142857142857143,1.0,0.2222222222222222,0.11764705882352944,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Sophie Alpert,git@sophiebits.com,0.4285714285714286,1.0,0.4,0.375,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Stefan Sundin,git@stefansundin.com,0.2142857142857143,1.0,0.19999999999999996,0.125,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,skratchdot,git@skratchdot.com,0.24,1.0,0.2857142857142857,0.0,0,0,0,0
+Josh Hunt,josh@trtr.co,Josh Perez,josh@goatslacker.com,0.5263157894736843,1.0,1.0,0.0,0,0,0,0
+Josh Perez,josh.perez@airbnb.com,Josh Perez,josh@goatslacker.com,1.0,0.5714285714285714,1.0,1.0,0,0,0,0
+Josh Story,josh.c.story@gmail.com,Josh Story,story@hey.com,1.0,0.5882352941176471,1.0,1.0,0,0,0,0
+Joshua Ma,me@joshma.com,Kurt Ruppel,me@kurtruppel.com,0.19999999999999996,1.0,0.19999999999999996,0.0,0,0,0,0
+Joshua Ma,me@joshma.com,NISHIZAWA Shuntaro,me@s2n.tech,0.37037037037037035,1.0,0.4,0.19999999999999996,0,0,0,0
+Joshua Ma,me@joshma.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.18181818181818177,1.0,0.2857142857142857,0.0,0,0,0,0
+Joshua Ma,me@joshma.com,Paul Benigeri,me@benigeri.com,0.18181818181818177,1.0,0.19999999999999996,0.0,0,0,0,0
+Joshua Ma,me@joshma.com,Pieter Vanderwerff,me@pieter.io,0.14814814814814814,1.0,0.0,0.15384615384615385,0,0,0,0
+Joshua Ma,me@joshma.com,Rafael Angeline,me@rafaelangeline.com,0.25,1.0,0.16666666666666663,0.19999999999999996,0,0,0,0
+Joshua Ma,me@joshma.com,Rouven Weßling,me@rouvenwessling.de,0.25,1.0,0.33333333333333337,0.0,0,0,0,0
+Joshua Ma,me@joshma.com,Sunny Juneja,me@sunnyjuneja.com,0.38095238095238093,1.0,0.36363636363636365,0.25,0,0,0,0
+Juan,jstejada@fb.com,Juan,juan@juansoto.me,1.0,0.33333333333333337,1.0,0.0,0,0,0,0
+Juan,jstejada@fb.com,Juan,juans.tejada@gmail.com,1.0,0.8,1.0,0.0,0,0,0,0
+Juan,jstejada@fb.com,jstejada,jstejada@fb.com,0.33333333333333337,1.0,0.33333333333333337,0.0,0,0,0,0
+Juan,juan@juansoto.me,Juan,juans.tejada@gmail.com,1.0,0.5,1.0,0.0,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,Orta Therox,git@orta.io,0.2857142857142857,1.0,0.0,0.25,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,Remko Tronçon,git@el-tramo.be,0.19999999999999996,1.0,0.18181818181818177,0.11764705882352944,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,Sophie Alpert,git@sophiebits.com,0.4,1.0,0.33333333333333337,0.375,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,Stefan Sundin,git@stefansundin.com,0.33333333333333337,1.0,0.33333333333333337,0.25,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,skratchdot,git@skratchdot.com,0.14814814814814814,1.0,0.0,0.0,0,0,0,0
+"Jun, WU",quark@lihdd.net,WU Jun,quark@lihdd.net,0.5,1.0,0.4,0.4,0,0,0,0
+Justin Grant,justin@justingrant.net,Justin Grant,justingrant@users.noreply.github.com,1.0,0.7058823529411764,1.0,1.0,0,0,0,0
+Karim Piyar Ali,karim.piyarali@gmail.com,Karim Piyar Ali,karimpa@fb.com,1.0,0.6666666666666667,1.0,1.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Marvin Hagemeister,hello@marvinh.dev,0.09523809523809523,1.0,0.2222222222222222,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Philipp,hello@philippspiess.com,0.0,1.0,0.0,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Philipp Spiess,hello@philippspiess.com,0.0,1.0,0.0,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Philipp Spieß,hello@philippspiess.com,0.0,1.0,0.0,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Richard Kho,hello@richardkho.com,0.1428571428571429,1.0,0.19999999999999996,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Seyi Adebajo,hello@seyinanigans.com,0.1333333333333333,1.0,0.2857142857142857,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Simone Vittori,hello@simonewebdesign.it,0.0,1.0,0.0,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Yann アウネ Eves,hello@yanneves.com,0.125,1.0,0.2857142857142857,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,Yasar icli,hello@yasaricli.com,0.15384615384615385,1.0,0.25,0.0,0,0,0,0
+Kay,hello@kunalpanchal.in,simonewebdesign,hello@simonewebdesign.it,0.0,1.0,0.0,0.0,0,0,0,0
+Kent C. Dodds,kent+github@doddsfamily.us,Kent C. Dodds,kent@doddsfamily.us,1.0,0.5333333333333333,1.0,1.0,0,0,0,0
+Kevin Chavez,kevin9794@hotmail.com,Kevin Chavez,mr.kev@me.com,1.0,0.4,1.0,1.0,0,0,0,0
+Kevin Coughlin,kevincoughlin@tumblr.com,Kevin Coughlin,kevintcoughlin@gmail.com,1.0,0.962962962962963,1.0,1.0,0,0,0,0
+Kevin Huang,huang.kev@gmail.com,Kevin Huang,kevinziwenhuang@gmail.com,1.0,0.41666666666666663,1.0,1.0,0,0,0,0
+Kevin Lacker,kevin@parse.com,Kevin Lacker,lacker@gmail.com,1.0,0.36363636363636365,1.0,1.0,0,0,0,0
+Kevin Lacker,kevin@parse.com,Kevin Lewis,kevin@lewistech.com,0.6956521739130435,1.0,1.0,0.36363636363636365,0,0,0,0
+Kevin Lacker,kevin@parse.com,Kevin Old,kevin@kevinold.com,0.6666666666666667,1.0,1.0,0.2222222222222222,0,0,0,0
+Kevin Lacker,kevin@parse.com,Kevin Suttle,kevin@suttle.email,0.6666666666666667,1.0,1.0,0.33333333333333337,0,0,0,0
+Kevin Lewis,kevin@lewistech.com,Kevin Old,kevin@kevinold.com,0.7,1.0,1.0,0.25,0,0,0,0
+Kevin Lewis,kevin@lewistech.com,Kevin Suttle,kevin@suttle.email,0.6956521739130435,1.0,1.0,0.36363636363636365,0,0,0,0
+Kevin Old,kevin@kevinold.com,Kevin Suttle,kevin@suttle.email,0.6666666666666667,1.0,1.0,0.2222222222222222,0,0,0,0
+Keyan Zhang,keyanz@fb.com,Keyan Zhang,kz5@indiana.edu,1.0,0.4444444444444444,1.0,1.0,0,0,0,0
+Keyan Zhang,keyanz@fb.com,Keyan Zhang,root@keyanzhang.com,1.0,0.0,1.0,1.0,0,0,0,0
+Keyan Zhang,kz5@indiana.edu,Keyan Zhang,root@keyanzhang.com,1.0,0.0,1.0,1.0,0,0,0,0
+Kier Borromeo,seraphipod@gmail.com,srph,seraphipod@gmail.com,0.11764705882352944,1.0,0.25,0.0,0,0,0,0
+Kunal Mehta,k.mehta@berkeley.edu,Kunal Mehta,kunalm@fb.com,1.0,0.3076923076923077,1.0,1.0,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,NISHIZAWA Shuntaro,me@s2n.tech,0.2068965517241379,1.0,0.0,0.1428571428571429,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.17142857142857137,1.0,0.0,0.19047619047619047,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Paul Benigeri,me@benigeri.com,0.25,1.0,0.25,0.1428571428571429,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Pieter Vanderwerff,me@pieter.io,0.27586206896551724,1.0,0.19999999999999996,0.23529411764705888,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Rafael Angeline,me@rafaelangeline.com,0.3076923076923077,1.0,0.19999999999999996,0.2857142857142857,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Rouven Weßling,me@rouvenwessling.de,0.3076923076923077,1.0,0.19999999999999996,0.2857142857142857,0,0,0,0
+Kurt Ruppel,me@kurtruppel.com,Sunny Juneja,me@sunnyjuneja.com,0.34782608695652173,1.0,0.2222222222222222,0.33333333333333337,0,0,0,0
+Laura buns,lawr@lauragonzalez.cc,Laura buns,walaura@fb.com,1.0,0.5454545454545454,1.0,1.0,0,0,0,0
+Lauren Tan,laurentan@laurentan-mbp.dhcp.thefacebook.com,Lauren Tan,poteto@users.noreply.github.com,1.0,0.2666666666666667,1.0,1.0,0,0,0,0
+Lauren Tan,poteto@users.noreply.github.com,lauren,poteto@users.noreply.github.com,0.75,1.0,1.0,0.0,0,0,0,0
+Laurence Rowe,l@lrowe.co.uk,Laurence Rowe,laurence@lrowe.co.uk,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Lea Rosema,terabaud@gmail.com,Lutz Rosema,terabaud@gmail.com,0.7619047619047619,1.0,0.2857142857142857,1.0,0,0,0,0
+Lee Byron,lee.byron@robinhood.com,Lee Byron,lee@leebyron.com,1.0,0.5,1.0,1.0,0,0,0,0
+Lenz Weber-Tronic,mail@lenzw.de,Matias Singers,mail@matiassingers.com,0.19999999999999996,1.0,0.0,0.2222222222222222,0,0,0,0
+Lenz Weber-Tronic,mail@lenzw.de,translucens,mail@w-st.com,0.2962962962962963,1.0,0.4,0.0,0,0,0,0
+LoganDark,4723091+LoganDark@users.noreply.github.com,LoganDark,github@logandark.mozmail.com,1.0,0.08695652173913049,1.0,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Matt Travi,github@travi.org,0.21052631578947367,1.0,0.15384615384615385,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Michał Matyas,github@higher.lv,0.18181818181818177,1.0,0.1333333333333333,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,PatrickJS,github@gdi2290.com,0.33333333333333337,1.0,0.33333333333333337,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Paul Schreiber,github@paulschreiber.com,0.17391304347826086,1.0,0.15384615384615385,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Rane Wallin,github@blasph.me,0.30000000000000004,1.0,0.3076923076923077,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Steven Luscher,github@steveluscher.com,0.17391304347826086,1.0,0.1333333333333333,0.0,0,0,0,0
+LoganDark,github@logandark.mozmail.com,Troy DeMonbreun,github@troyd.net,0.25,1.0,0.15384615384615385,0.0,0,0,0,0
+Lucas,AgtLucas@users.noreply.github.com,lucas,lucas.aragno157@gmail.com,1.0,0.34782608695652173,1.0,0.0,0,0,0,0
+Luna,lunaleaps@gmail.com,Luna,luwe@fb.com,1.0,0.46153846153846156,1.0,0.0,0,0,0,0
+Luna Ruan,luna@fb.com,Luna Ruan,lunaris.ruan@gmail.com,1.0,0.5,1.0,1.0,0,0,0,0
+Luna Ruan,luna@fb.com,lunaruan,eloquent.mayhem@gmail.com,0.9411764705882353,0.42105263157894735,0.6666666666666667,0.0,0,0,0,0
+Luna Ruan,luna@fb.com,lunaruan,lunaris.ruan@gmail.com,0.9411764705882353,0.5,0.6666666666666667,0.0,0,0,0,0
+Luna Ruan,lunaris.ruan@gmail.com,lunaruan,eloquent.mayhem@gmail.com,0.9411764705882353,0.37037037037037035,0.6666666666666667,0.0,0,0,0,0
+Luna Ruan,lunaris.ruan@gmail.com,lunaruan,lunaris.ruan@gmail.com,0.9411764705882353,1.0,0.6666666666666667,0.0,0,0,0,0
+MICHAEL JACKSON,mjijackson@gmail.com,Michael Jackson,mjijackson@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Maciej Kasprzyk,kapustka.maciek@gmail.com,lokson,kapustka.maciek@gmail.com,0.19047619047619047,1.0,0.0,0.0,0,0,0,0
+Marcin Mazurek,marcin@mazurek.pro,Marcin Szczepanski,marcins@gmail.com,0.625,0.9230769230769231,1.0,0.33333333333333337,0,0,0,0
+Marius Craciunoiu,m@m23.io,Matt Kane,m@mk.gg,0.3846153846153846,1.0,0.4,0.2857142857142857,0,0,0,0
+Marius Craciunoiu,m@m23.io,Matthew Dapena-Tretter,m@tthewwithanm.com,0.26315789473684215,1.0,0.3076923076923077,0.17391304347826086,0,0,0,0
+Mark Anderson,undernewmanagement@users.noreply.github.com,Sheraz,undernewmanagement@users.noreply.github.com,0.21052631578947367,1.0,0.19999999999999996,0.0,0,0,0,0
+Mark Erikson,mark@isquaredsoftware.com,Mark Funk,mark@boomtownroi.com,0.5714285714285714,1.0,1.0,0.18181818181818177,0,0,0,0
+Mark Erikson,mark@isquaredsoftware.com,Mark Rushakoff,mark@influxdb.com,0.6153846153846154,1.0,1.0,0.375,0,0,0,0
+Mark Funk,funk@fb.com,Mark Funk,mark@boomtownroi.com,1.0,0.25,1.0,1.0,0,0,0,0
+Mark Funk,funk@fb.com,Mark Funk,mfunk86@gmail.com,1.0,0.7272727272727273,1.0,1.0,0,0,0,0
+Mark Funk,mark@boomtownroi.com,Mark Funk,mfunk86@gmail.com,1.0,0.36363636363636365,1.0,1.0,0,0,0,0
+Mark Funk,mark@boomtownroi.com,Mark Rushakoff,mark@influxdb.com,0.6086956521739131,1.0,1.0,0.3076923076923077,0,0,0,0
+Martin Jul,martin@mjul.com,Robert Martin,rmartin@rmart.in,0.5217391304347826,0.9230769230769231,0.33333333333333337,0.0,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Philipp,hello@philippspiess.com,0.16000000000000003,1.0,0.15384615384615385,0.0,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Philipp Spiess,hello@philippspiess.com,0.25,1.0,0.15384615384615385,0.23529411764705888,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Philipp Spieß,hello@philippspiess.com,0.25,1.0,0.15384615384615385,0.23529411764705888,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Richard Kho,hello@richardkho.com,0.3448275862068966,1.0,0.3076923076923077,0.1428571428571429,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Seyi Adebajo,hello@seyinanigans.com,0.2666666666666667,1.0,0.19999999999999996,0.2222222222222222,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Simone Vittori,hello@simonewebdesign.it,0.375,1.0,0.33333333333333337,0.33333333333333337,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Yann アウネ Eves,hello@yanneves.com,0.3870967741935484,1.0,0.4,0.3157894736842105,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,Yasar icli,hello@yasaricli.com,0.2857142857142857,1.0,0.36363636363636365,0.1333333333333333,0,0,0,0
+Marvin Hagemeister,hello@marvinh.dev,simonewebdesign,hello@simonewebdesign.it,0.303030303030303,1.0,0.2857142857142857,0.0,0,0,0,0
+Mathieu M-Gosselin,mathieumg@atx33.com,Mathieu M-Gosselin,mathieumg@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Matias Singers,mail@matiassingers.com,translucens,mail@w-st.com,0.4,1.0,0.3529411764705882,0.0,0,0,0,0
+Matt,matt@brookes.net,Matt Brookes,matt@brookes.net,0.5,1.0,1.0,0.0,0,0,0,0
+Matt Carroll,7158882+mattcarrollcode@users.noreply.github.com,Matt Carroll,mattca@meta.com,1.0,0.4137931034482759,1.0,1.0,0,0,0,0
+Matt Kane,m@mk.gg,Matthew Dapena-Tretter,m@tthewwithanm.com,0.5333333333333333,1.0,0.7272727272727273,0.3529411764705882,0,0,0,0
+Matt Travi,github@travi.org,Michał Matyas,github@higher.lv,0.4347826086956522,1.0,0.4,0.36363636363636365,0,0,0,0
+Matt Travi,github@travi.org,PatrickJS,github@gdi2290.com,0.42105263157894735,1.0,0.3076923076923077,0.0,0,0,0,0
+Matt Travi,github@travi.org,Paul Schreiber,github@paulschreiber.com,0.33333333333333337,1.0,0.25,0.2857142857142857,0,0,0,0
+Matt Travi,github@travi.org,Rane Wallin,github@blasph.me,0.38095238095238093,1.0,0.25,0.36363636363636365,0,0,0,0
+Matt Travi,github@travi.org,Steven Luscher,github@steveluscher.com,0.25,1.0,0.19999999999999996,0.16666666666666663,0,0,0,0
+Matt Travi,github@travi.org,Troy DeMonbreun,github@troyd.net,0.24,1.0,0.25,0.1333333333333333,0,0,0,0
+Matthew Hodgson,matthew@matrix.org,Matthew Miner,matthew@matthewminer.com,0.6428571428571428,1.0,1.0,0.16666666666666663,0,0,0,0
+Matthew Johnston,matthewjohnston4@outlook.com,Matthew Johnston,matthewjohnston4@users.noreply.github.com,1.0,1.0,1.0,1.0,0,0,0,0
+Max,contact@mstoiber.com,Steven Vachon,contact@svachon.com,0.125,1.0,0.0,0.0,0,0,0,0
+Md Zubair Ahmed,ahmedzubair216@gmail.com,Zubair Ahmed,ahmedzubair216@gmail.com,0.8888888888888888,1.0,0.0,0.5882352941176471,0,0,0,0
+"Mengdi ""Monday"" Chen",mengdi@fb.com,Mengdi Chen,mengdi@fb.com,0.7586206896551724,1.0,1.0,0.5333333333333333,0,0,0,0
+Michael McDermott,michael@mgmcdermott.com,Michael Terry,michael@michaelterry.org,0.6666666666666667,1.0,1.0,0.2857142857142857,0,0,0,0
+Michael Ridgway,mcridgway@gmail.com,Michael Ridgway,mridgway@yahoo-inc.com,1.0,0.9411764705882353,1.0,1.0,1,0,0,0
+Michael Vitousek,mmvitousek@gmail.com,Mike Vitousek,mmvitousek@gmail.com,0.8275862068965517,1.0,0.5454545454545454,1.0,0,0,0,0
+Michael Vitousek,mmvitousek@gmail.com,Mike Vitousek,mvitousek@fb.com,0.8275862068965517,0.9473684210526316,0.5454545454545454,1.0,1,0,0,0
+Michal Srb,xixixao@seznam.cz,xixixao,xixixao@seznam.cz,0.23529411764705888,1.0,0.3076923076923077,0.0,0,0,0,0
+Michaël De Boey,info@michaeldeboey.be,Patrick,info@telepark.de,0.18181818181818177,1.0,0.2857142857142857,0.0,0,0,0,0
+Michaël De Boey,info@michaeldeboey.be,Pontus Abrahamsson,info@wdlinkoping.se,0.18181818181818177,1.0,0.0,0.2222222222222222,0,0,0,0
+Michał Matyas,github@higher.lv,PatrickJS,github@gdi2290.com,0.2727272727272727,1.0,0.2666666666666667,0.0,0,0,0,0
+Michał Matyas,github@higher.lv,Paul Schreiber,github@paulschreiber.com,0.2222222222222222,1.0,0.19999999999999996,0.1333333333333333,0,0,0,0
+Michał Matyas,github@higher.lv,Rane Wallin,github@blasph.me,0.25,1.0,0.19999999999999996,0.16666666666666663,0,0,0,0
+Michał Matyas,github@higher.lv,Steven Luscher,github@steveluscher.com,0.14814814814814814,1.0,0.0,0.15384615384615385,0,0,0,0
+Michał Matyas,github@higher.lv,Troy DeMonbreun,github@troyd.net,0.1428571428571429,1.0,0.0,0.125,0,0,0,0
+Michelle Todd,himichelletodd@gmail.com,Michelle Todd,michelle@khanacademy.org,1.0,0.7272727272727273,1.0,1.0,0,0,0,0
+Mihai Parparita,mihai.parparita@gmail.com,Mihai Parparita,mihai@persistent.info,1.0,0.5,1.0,1.0,0,0,0,0
+Mike Nordick,mnordick,Mike Nordick,mnordick@microsoft.com,1.0,1.0,1.0,1.0,1,0,1,0
+Mike Vitousek,mmvitousek@gmail.com,Mike Vitousek,mvitousek@fb.com,1.0,0.9473684210526316,1.0,1.0,1,0,0,0
+Mofei Zhang,feifei0@fb.com,Mofei Zhang,feifei0@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Mofei Zhang,feifei0@fb.com,Mofei Zhang,mofei.zhang@utexas.edu,1.0,0.33333333333333337,1.0,1.0,0,0,0,0
+Mofei Zhang,feifei0@meta.com,Mofei Zhang,mofei.zhang@utexas.edu,1.0,0.33333333333333337,1.0,1.0,0,0,0,0
+Moti Zilberman,moti@meta.com,Moti Zilberman,motiz88@gmail.com,1.0,0.7272727272727273,1.0,1.0,0,0,0,0
+Murray M. Moss,MMoss@cainc.com,Murray M. Moss,mmoss@users.noreply.github.com,1.0,0.6,1.0,1.0,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Nicholas Bergson-Shilcock,me@nicholasbs.net,0.38095238095238093,1.0,0.47058823529411764,0.26086956521739135,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Paul Benigeri,me@benigeri.com,0.25806451612903225,1.0,0.15384615384615385,0.25,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Pieter Vanderwerff,me@pieter.io,0.2222222222222222,1.0,0.1333333333333333,0.21052631578947367,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Rafael Angeline,me@rafaelangeline.com,0.24242424242424243,1.0,0.2666666666666667,0.125,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Rouven Weßling,me@rouvenwessling.de,0.24242424242424243,1.0,0.1333333333333333,0.25,0,0,0,0
+NISHIZAWA Shuntaro,me@s2n.tech,Sunny Juneja,me@sunnyjuneja.com,0.33333333333333337,1.0,0.1428571428571429,0.4285714285714286,0,0,0,0
+Naman Goel,naman34@gmail.com,Naman Goel,nmn@users.noreply.github.com,1.0,0.6,1.0,1.0,0,0,0,0
+Nate Hunzaker,nate.hunzaker@gmail.com,Nathan Hunzaker,nate.hunzaker@gmail.com,0.8571428571428572,1.0,0.6,1.0,0,0,0,0
+Nathan Schloss,n8s@fb.com,Nathan Schloss,n8schloss@users.noreply.github.com,1.0,0.5,1.0,1.0,0,0,0,0
+Nicholas Bergson-Shilcock,me@nicholasbs.net,Paul Benigeri,me@benigeri.com,0.32432432432432434,1.0,0.16666666666666663,0.34782608695652173,0,0,0,0
+Nicholas Bergson-Shilcock,me@nicholasbs.net,Pieter Vanderwerff,me@pieter.io,0.19047619047619047,1.0,0.1428571428571429,0.15384615384615385,0,0,0,0
+Nicholas Bergson-Shilcock,me@nicholasbs.net,Rafael Angeline,me@rafaelangeline.com,0.20512820512820518,1.0,0.1428571428571429,0.17391304347826086,0,0,0,0
+Nicholas Bergson-Shilcock,me@nicholasbs.net,Rouven Weßling,me@rouvenwessling.de,0.3076923076923077,1.0,0.1428571428571429,0.34782608695652173,0,0,0,0
+Nicholas Bergson-Shilcock,me@nicholasbs.net,Sunny Juneja,me@sunnyjuneja.com,0.16666666666666663,1.0,0.15384615384615385,0.09523809523809523,0,0,0,0
+Nick Merwin,nick@lemurheavy.com,Nick Presta,nick@nickpresta.ca,0.5454545454545454,1.0,1.0,0.16666666666666663,0,0,0,0
+Nick Reiley,bloomber111@gmail.com,Nikita Lebedev,bloomber111@gmail.com,0.48,1.0,0.6,0.3076923076923077,0,0,0,0
+Nick Thompson,ncthom91@gmail.com,Nick Thompson,nickt@instagram.com,1.0,0.46153846153846156,1.0,1.0,0,0,0,0
+Nick Williams,WickyNilliams@users.noreply.github.com,WickyNilliams,WickyNilliams@MBA,0.7692307692307692,1.0,0.3529411764705882,0.0,0,0,0,0
+Nicolas Gallagher,necolas@fb.com,Nicolas Gallagher,nicolasgallagher@gmail.com,1.0,0.5217391304347826,1.0,1.0,0,0,0,0
+Noah Lemen,noah.lemen@gmail.com,Noah Lemen,noahlemen@meta.com,1.0,0.9473684210526316,1.0,1.0,0,0,0,0
+Orta Therox,git@orta.io,Remko Tronçon,git@el-tramo.be,0.41666666666666663,1.0,0.2222222222222222,0.46153846153846156,0,0,0,0
+Orta Therox,git@orta.io,Sophie Alpert,git@sophiebits.com,0.33333333333333337,1.0,0.19999999999999996,0.33333333333333337,0,0,0,0
+Orta Therox,git@orta.io,Stefan Sundin,git@stefansundin.com,0.25,1.0,0.4,0.0,0,0,0,0
+Orta Therox,git@orta.io,skratchdot,git@skratchdot.com,0.47619047619047616,1.0,0.2857142857142857,0.0,0,0,0,0
+Pascal Fong Kye,p.fongkye@lectra.com,Pascal Fong Kye,pfongkye@yahoo.com,1.0,0.9411764705882353,1.0,1.0,0,0,0,0
+Patrick,1919554+powens@users.noreply.github.com,Patrick,info@telepark.de,1.0,0.11111111111111116,1.0,0.0,0,0,0,0
+Patrick,info@telepark.de,Pontus Abrahamsson,info@wdlinkoping.se,0.24,1.0,0.3076923076923077,0.0,0,0,0,0
+PatrickJS,github@gdi2290.com,Paul Schreiber,github@paulschreiber.com,0.34782608695652173,1.0,0.3076923076923077,0.0,0,0,0,0
+PatrickJS,github@gdi2290.com,Rane Wallin,github@blasph.me,0.19999999999999996,1.0,0.15384615384615385,0.0,0,0,0,0
+PatrickJS,github@gdi2290.com,Steven Luscher,github@steveluscher.com,0.17391304347826086,1.0,0.1333333333333333,0.0,0,0,0,0
+PatrickJS,github@gdi2290.com,Troy DeMonbreun,github@troyd.net,0.16666666666666663,1.0,0.3076923076923077,0.0,0,0,0,0
+Paul Benigeri,me@benigeri.com,Pieter Vanderwerff,me@pieter.io,0.32258064516129037,1.0,0.19999999999999996,0.3157894736842105,0,0,0,0
+Paul Benigeri,me@benigeri.com,Rafael Angeline,me@rafaelangeline.com,0.5,1.0,0.4,0.5,0,0,0,0
+Paul Benigeri,me@benigeri.com,Rouven Weßling,me@rouvenwessling.de,0.3571428571428571,1.0,0.19999999999999996,0.375,0,0,0,0
+Paul Benigeri,me@benigeri.com,Sunny Juneja,me@sunnyjuneja.com,0.31999999999999995,1.0,0.2222222222222222,0.2857142857142857,0,0,0,0
+Paul O'Shannessy,poshannessy@fb.com,Paul O’Shannessy,paul@oshannessy.com,0.967741935483871,0.2666666666666667,1.0,0.9523809523809523,0,0,0,0
+Paul O’Shannessy,paul@oshannessy.com,Paul Shen,paul@mnml0.com,0.64,1.0,1.0,0.4,0,0,0,0
+Paul Schreiber,github@paulschreiber.com,Rane Wallin,github@blasph.me,0.24,1.0,0.25,0.1333333333333333,0,0,0,0
+Paul Schreiber,github@paulschreiber.com,Steven Luscher,github@steveluscher.com,0.4285714285714286,1.0,0.0,0.625,0,0,0,0
+Paul Schreiber,github@paulschreiber.com,Troy DeMonbreun,github@troyd.net,0.27586206896551724,1.0,0.0,0.3157894736842105,0,0,0,0
+Paul Shen,paul@mnml0.com,Paul Shen,paulshen0@gmail.com,1.0,0.6153846153846154,1.0,1.0,0,0,0,0
+Paul Shen,paul@mnml0.com,Paul Shen,paulshen@fb.com,1.0,0.6666666666666667,1.0,1.0,0,0,0,0
+Paul Shen,paulshen0@gmail.com,Paul Shen,paulshen@fb.com,1.0,0.9411764705882353,1.0,1.0,0,0,0,0
+Pete Hunt,pete.hunt@fb.com,Pete Hunt,pete@instagram.com,1.0,0.6153846153846154,1.0,1.0,0,0,0,0
+Pete Hunt,pete.hunt@fb.com,Pete Hunt,phunt@instagram.com,1.0,0.7142857142857143,1.0,1.0,1,0,0,0
+Pete Hunt,pete.hunt@fb.com,petehunt,floydophone@gmail.com,0.9411764705882353,0.30000000000000004,0.6666666666666667,0.0,0,0,0,0
+Pete Hunt,pete.hunt@fb.com,petehunt,pete.hunt@fb.com,0.9411764705882353,1.0,0.6666666666666667,0.0,0,0,0,0
+Pete Hunt,pete@instagram.com,Pete Hunt,phunt@instagram.com,1.0,0.4444444444444444,1.0,1.0,1,0,0,0
+Pete Hunt,pete@instagram.com,petehunt,floydophone@gmail.com,0.9411764705882353,0.2666666666666667,0.6666666666666667,0.0,0,0,0,0
+Pete Hunt,pete@instagram.com,petehunt,pete.hunt@fb.com,0.9411764705882353,0.6153846153846154,0.6666666666666667,0.0,0,0,0,0
+Pete Hunt,pete@instagram.com,plievone,pete@screen.io,0.3529411764705882,1.0,0.5,0.0,0,0,0,0
+Pete Hunt,phunt@instagram.com,petehunt,floydophone@gmail.com,0.9411764705882353,0.375,0.6666666666666667,0.0,0,0,0,0
+Pete Hunt,phunt@instagram.com,petehunt,pete.hunt@fb.com,0.9411764705882353,0.7142857142857143,0.6666666666666667,0.0,0,0,0,0
+Peter Donald,peter@realityforge.org,Pieter Vanderwerff,pieter@heyday.co.nz,0.5333333333333333,0.9090909090909091,0.9090909090909091,0.23529411764705888,0,0,0,0
+Philipp,hello@philippspiess.com,Philipp Spiess,hello@philippspiess.com,0.6666666666666667,1.0,1.0,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Philipp Spieß,hello@philippspiess.com,0.6666666666666667,1.0,1.0,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Richard Kho,hello@richardkho.com,0.11111111111111116,1.0,0.1428571428571429,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Seyi Adebajo,hello@seyinanigans.com,0.10526315789473684,1.0,0.18181818181818177,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Simone Vittori,hello@simonewebdesign.it,0.19047619047619047,1.0,0.15384615384615385,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Yann アウネ Eves,hello@yanneves.com,0.0,1.0,0.0,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,Yasar icli,hello@yasaricli.com,0.3529411764705882,1.0,0.0,0.0,0,0,0,0
+Philipp,hello@philippspiess.com,simonewebdesign,hello@simonewebdesign.it,0.18181818181818177,1.0,0.18181818181818177,0.0,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Philipp Spieß,hello@philippspiess.com,1.0,1.0,1.0,1.0,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Richard Kho,hello@richardkho.com,0.16000000000000003,1.0,0.1428571428571429,0.0,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Seyi Adebajo,hello@seyinanigans.com,0.23076923076923073,1.0,0.18181818181818177,0.15384615384615385,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Simone Vittori,hello@simonewebdesign.it,0.2142857142857143,1.0,0.15384615384615385,0.15384615384615385,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Yann アウネ Eves,hello@yanneves.com,0.2222222222222222,1.0,0.0,0.2857142857142857,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,Yasar icli,hello@yasaricli.com,0.25,1.0,0.0,0.19999999999999996,0,0,0,0
+Philipp Spiess,hello@philippspiess.com,simonewebdesign,hello@simonewebdesign.it,0.27586206896551724,1.0,0.18181818181818177,0.0,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,Richard Kho,hello@richardkho.com,0.16000000000000003,1.0,0.1428571428571429,0.0,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,Seyi Adebajo,hello@seyinanigans.com,0.23076923076923073,1.0,0.18181818181818177,0.15384615384615385,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,Simone Vittori,hello@simonewebdesign.it,0.2142857142857143,1.0,0.15384615384615385,0.15384615384615385,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,Yann アウネ Eves,hello@yanneves.com,0.2222222222222222,1.0,0.0,0.2857142857142857,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,Yasar icli,hello@yasaricli.com,0.25,1.0,0.0,0.19999999999999996,0,0,0,0
+Philipp Spieß,hello@philippspiess.com,simonewebdesign,hello@simonewebdesign.it,0.27586206896551724,1.0,0.18181818181818177,0.0,0,0,0,0
+Pieter De Baets,pieter.debaets@gmail.com,Pieter De Baets,pieterdb@meta.com,1.0,0.7272727272727273,1.0,1.0,0,0,0,0
+Pieter Vanderwerff,me@pieter.io,Pieter Vanderwerff,pieter@heyday.co.nz,1.0,0.25,1.0,1.0,0,0,0,0
+Pieter Vanderwerff,me@pieter.io,Pieter Vanderwerff,pieterv@fb.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Pieter Vanderwerff,me@pieter.io,Rafael Angeline,me@rafaelangeline.com,0.36363636363636365,1.0,0.16666666666666663,0.42105263157894735,0,0,0,0
+Pieter Vanderwerff,me@pieter.io,Rouven Weßling,me@rouvenwessling.de,0.303030303030303,1.0,0.16666666666666663,0.21052631578947367,0,0,0,0
+Pieter Vanderwerff,me@pieter.io,Sunny Juneja,me@sunnyjuneja.com,0.19999999999999996,1.0,0.0,0.23529411764705888,0,0,0,0
+Pieter Vanderwerff,pieter@heyday.co.nz,Pieter Vanderwerff,pieterv@fb.com,1.0,0.9230769230769231,1.0,1.0,0,0,0,0
+Piotr Tomczewski,piotr.tomczewski@callstack.com,Piotr Tomczewski,piotr@tomczewski.dev,1.0,0.47619047619047616,1.0,1.0,0,0,0,0
+Rafael Angeline,me@rafaelangeline.com,Rouven Weßling,me@rouvenwessling.de,0.4666666666666667,1.0,0.33333333333333337,0.5,0,0,0,0
+Rafael Angeline,me@rafaelangeline.com,Sunny Juneja,me@sunnyjuneja.com,0.2222222222222222,1.0,0.0,0.2857142857142857,0,0,0,0
+Raito Bezarius,masterancpp@gmail.com,Ryan Lahfa,masterancpp@gmail.com,0.33333333333333337,1.0,0.4444444444444444,0.15384615384615385,0,0,0,0
+Rane Wallin,github@blasph.me,Steven Luscher,github@steveluscher.com,0.24,1.0,0.19999999999999996,0.15384615384615385,0,0,0,0
+Rane Wallin,github@blasph.me,Troy DeMonbreun,github@troyd.net,0.3076923076923077,1.0,0.25,0.125,0,0,0,0
+Ray,ray@tomo.im,ray,ray@tomo.im,1.0,1.0,1.0,0.0,0,0,0,0
+Remko Tronçon,git@el-tramo.be,Sophie Alpert,git@sophiebits.com,0.23076923076923073,1.0,0.18181818181818177,0.15384615384615385,0,0,0,0
+Remko Tronçon,git@el-tramo.be,Stefan Sundin,git@stefansundin.com,0.3076923076923077,1.0,0.18181818181818177,0.3076923076923077,0,0,0,0
+Remko Tronçon,git@el-tramo.be,skratchdot,git@skratchdot.com,0.34782608695652173,1.0,0.2666666666666667,0.0,0,0,0,0
+Richard Feldman,richard.t.feldman@gmail.com,Richard Feldman,richard@noredink.com,1.0,0.5833333333333333,1.0,1.0,0,0,0,0
+Richard Kho,hello@richardkho.com,Seyi Adebajo,hello@seyinanigans.com,0.34782608695652173,1.0,0.18181818181818177,0.19999999999999996,0,0,0,0
+Richard Kho,hello@richardkho.com,Simone Vittori,hello@simonewebdesign.it,0.24,1.0,0.15384615384615385,0.19999999999999996,0,0,0,0
+Richard Kho,hello@richardkho.com,Yann アウネ Eves,hello@yanneves.com,0.16666666666666663,1.0,0.18181818181818177,0.0,0,0,0,0
+Richard Kho,hello@richardkho.com,Yasar icli,hello@yasaricli.com,0.2857142857142857,1.0,0.33333333333333337,0.0,0,0,0,0
+Richard Kho,hello@richardkho.com,simonewebdesign,hello@simonewebdesign.it,0.15384615384615385,1.0,0.18181818181818177,0.0,0,0,0,0
+Rick Hanlon,rickhanlonii@fb.com,Rick Hanlon,rickhanlonii@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Rick Hanlon,rickhanlonii@fb.com,Rick Hanlon II,rickhanlonii@gmail.com,0.88,1.0,1.0,0.8,0,0,0,0
+Rick Hanlon,rickhanlonii@fb.com,Ricky,rickhanlonii@fb.com,0.5,1.0,0.8888888888888888,0.0,0,0,0,0
+Rick Hanlon,rickhanlonii@fb.com,Ricky,rickhanlonii@gmail.com,0.5,1.0,0.8888888888888888,0.0,0,0,0,0
+Rick Hanlon,rickhanlonii@gmail.com,Rick Hanlon II,rickhanlonii@gmail.com,0.88,1.0,1.0,0.8,0,0,0,0
+Rick Hanlon,rickhanlonii@gmail.com,Ricky,rickhanlonii@fb.com,0.5,1.0,0.8888888888888888,0.0,0,0,0,0
+Rick Hanlon,rickhanlonii@gmail.com,Ricky,rickhanlonii@gmail.com,0.5,1.0,0.8888888888888888,0.0,0,0,0,0
+Rick Hanlon II,rickhanlonii@gmail.com,Ricky,rickhanlonii@fb.com,0.42105263157894735,1.0,0.8888888888888888,0.0,0,0,0,0
+Rick Hanlon II,rickhanlonii@gmail.com,Ricky,rickhanlonii@gmail.com,0.42105263157894735,1.0,0.8888888888888888,0.0,0,0,0,0
+Ricky,rickhanlonii@fb.com,Ricky,rickhanlonii@gmail.com,1.0,1.0,1.0,0.0,0,0,0,0
+Rinat,ringarifullin@gmail.com,rgarifullin,ringarifullin@gmail.com,0.375,1.0,0.375,0.0,0,0,0,0
+Robert Balicki,robert.balicki@gmail.com,Robert Balicki,robertbalicki@fb.com,1.0,0.962962962962963,1.0,1.0,0,0,0,0
+Robert Chang,cht8687@gmail.com,Robert Zhang,jiaxuanzhang066@gmail.com,0.9166666666666666,0.18181818181818177,1.0,0.8,0,0,0,0
+Robert Knight,robert.knight@mendeley.com,Robert Knight,robertknight@gmail.com,1.0,0.96,1.0,1.0,0,0,0,0
+Robin Berjon,robin@berjon.com,rofrischmann,robin@rofrischmann.de,0.41666666666666663,1.0,0.47058823529411764,0.0,0,0,0,0
+Rouven Weßling,me@rouvenwessling.de,Sunny Juneja,me@sunnyjuneja.com,0.2962962962962963,1.0,0.36363636363636365,0.1428571428571429,0,0,0,0
+Rubén Norte,rubennorte@fb.com,Rubén Norte,rubennorte@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Rubén Norte,rubennorte@fb.com,Rubén Norte,rubennorte@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Rubén Norte,rubennorte@gmail.com,Rubén Norte,rubennorte@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Ruslan Lesiutin,28902667+hoxyq@users.noreply.github.com,Ruslan Lesiutin,rdlesyutin@gmail.com,1.0,0.08333333333333337,1.0,1.0,0,0,0,0
+Ryota Murakami,dojce1048@gmail.com,ryota-murakami,dojce1048@gmail.com,0.962962962962963,1.0,0.5555555555555556,0.0,0,0,0,0
+Sam Balana,sam.balana@ardentacademy.com,Sam Balana,sambalana247@gmail.com,1.0,0.8181818181818181,1.0,1.0,0,0,0,0
+Sam Horton,savepointsam@gmail.com,Samuel,savepointsam@gmail.com,0.375,1.0,0.6666666666666667,0.0,0,0,0,0
+Sam Marks,sam@sammarks.me,Sam Zhou,sam@developersam.com,0.47058823529411764,1.0,1.0,0.0,0,0,0,0
+Samuel Susla,samuel.susla@gmail.com,Samuel Susla,samuelsusla@fb.com,1.0,0.9565217391304348,1.0,1.0,0,0,0,0
+Samy Al Zahrani,samy@sadeem.net,Samy Al Zahrani,samyalzahrany@gmail.com,1.0,0.47058823529411764,1.0,1.0,0,0,0,0
+Sathya Gunasekaran,gsathya.ceg@gmail.com,Sathya Gunsasekaran,gsathya.ceg@gmail.com,0.972972972972973,1.0,1.0,0.9565217391304348,0,0,0,0
+Scott Burch,scott@bulldoginfo.com,Scott Feeney,scott@oceanbase.org,0.5217391304347826,1.0,1.0,0.0,0,0,0,0
+Scott Feeney,scott@oceanbase.org,Scott Feeney,smf@fb.com,1.0,0.25,1.0,1.0,0,0,0,0
+"Sebastian ""Sebbie"" Silbermann",sebastian.silbermann@vercel.com,Sebastian Silbermann,sebastian.silbermann@vercel.com,0.851063829787234,1.0,1.0,0.7407407407407407,0,0,0,0
+Sebastian Markbage,sema@fb.com,Sebastian Markbåge,sebastian@calyptus.eu,1.0,0.46153846153846156,1.0,1.0,0,0,0,0
+Sebastian Markbage,sema@fb.com,Sebastian Markbåge,sema@fb.com,1.0,1.0,1.0,1.0,0,0,0,0
+Sebastian Markbåge,sebastian@calyptus.eu,Sebastian Markbåge,sema@fb.com,1.0,0.46153846153846156,1.0,1.0,0,0,0,0
+Sebastian Silbermann,sebastian.silbermann@vercel.com,Sebastian Silbermann,silbermann.sebastian@gmail.com,1.0,0.5,1.0,1.0,0,0,0,0
+Sergey R,chi187@gmail.com,Sergey Rubanov,chi187@gmail.com,0.7272727272727273,1.0,1.0,0.25,0,0,0,0
+Sergey R,chi187@gmail.com,chico,chi187@gmail.com,0.0,1.0,0.0,0.0,0,0,0,0
+Sergey Rubanov,chi187@gmail.com,chico,chi187@gmail.com,0.10526315789473684,1.0,0.0,0.0,0,0,0,0
+Seyi Adebajo,hello@seyinanigans.com,Simone Vittori,hello@simonewebdesign.it,0.3076923076923077,1.0,0.4,0.1428571428571429,0,0,0,0
+Seyi Adebajo,hello@seyinanigans.com,Yann アウネ Eves,hello@yanneves.com,0.24,1.0,0.25,0.1333333333333333,0,0,0,0
+Seyi Adebajo,hello@seyinanigans.com,Yasar icli,hello@yasaricli.com,0.2727272727272727,1.0,0.2222222222222222,0.0,0,0,0,0
+Seyi Adebajo,hello@seyinanigans.com,simonewebdesign,hello@simonewebdesign.it,0.2962962962962963,1.0,0.3157894736842105,0.0,0,0,0,0
+Simone Vittori,hello@simonewebdesign.it,Yann アウネ Eves,hello@yanneves.com,0.2222222222222222,1.0,0.19999999999999996,0.1333333333333333,0,0,0,0
+Simone Vittori,hello@simonewebdesign.it,Yasar icli,hello@yasaricli.com,0.33333333333333337,1.0,0.18181818181818177,0.36363636363636365,0,0,0,0
+Simone Vittori,hello@simonewebdesign.it,simonewebdesign,hello@simonewebdesign.it,0.48275862068965514,1.0,0.5714285714285714,0.0,0,0,0,0
+Sophie Alpert,git@sophiebits.com,Sophie Alpert,sophiebits@fb.com,1.0,0.3076923076923077,1.0,1.0,0,0,0,0
+Sophie Alpert,git@sophiebits.com,Sophie Alpert,sophiebits@humu.com,1.0,0.3076923076923077,1.0,1.0,0,0,0,0
+Sophie Alpert,git@sophiebits.com,Stefan Sundin,git@stefansundin.com,0.23076923076923073,1.0,0.33333333333333337,0.0,0,0,0,0
+Sophie Alpert,git@sophiebits.com,skratchdot,git@skratchdot.com,0.26086956521739135,1.0,0.25,0.0,0,0,0,0
+Sophie Alpert,sophiebits@fb.com,Sophie Alpert,sophiebits@humu.com,1.0,1.0,1.0,1.0,0,0,0,0
+Stefan Sundin,git@stefansundin.com,skratchdot,git@skratchdot.com,0.26086956521739135,1.0,0.25,0.0,0,0,0,0
+Steven Luscher,github@steveluscher.com,Steven Luscher,steveluscher@fb.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Steven Luscher,github@steveluscher.com,Steven Luscher,steveluscher@instagram.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Steven Luscher,github@steveluscher.com,Steven Luscher,steveluscher@users.noreply.github.com,1.0,0.2222222222222222,1.0,1.0,0,0,0,0
+Steven Luscher,github@steveluscher.com,Troy DeMonbreun,github@troyd.net,0.27586206896551724,1.0,0.19999999999999996,0.23529411764705888,0,0,0,0
+Steven Luscher,steveluscher@fb.com,Steven Luscher,steveluscher@instagram.com,1.0,1.0,1.0,1.0,0,0,0,0
+Steven Luscher,steveluscher@fb.com,Steven Luscher,steveluscher@users.noreply.github.com,1.0,1.0,1.0,1.0,0,0,0,0
+Steven Luscher,steveluscher@instagram.com,Steven Luscher,steveluscher@users.noreply.github.com,1.0,1.0,1.0,1.0,0,0,0,0
+Sunil Pai,threepointone@fb.com,Sunil Pai,threepointone@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Sunil Pai,threepointone@fb.com,Sunil Pai,threepointone@oculus.com,1.0,1.0,1.0,1.0,0,0,0,0
+Sunil Pai,threepointone@gmail.com,Sunil Pai,threepointone@oculus.com,1.0,1.0,1.0,1.0,0,0,0,0
+Tay Yang Shun,tay.yang.shun@gmail.com,Yangshun Tay,tay.yang.shun@gmail.com,0.64,1.0,0.18181818181818177,0.16666666666666663,0,0,0,0
+Thomas Aylott,aylott@fb.com,Thomas Aylott,oblivious@subtlegradient.com,1.0,0.2666666666666667,1.0,1.0,0,0,0,0
+Tim Yung,yungsters@fb.com,Timothy Yung,yungsters@fb.com,0.8,1.0,0.6,1.0,0,0,0,0
+Tim Yung,yungsters@fb.com,Timothy Yung,yungsters@gmail.com,0.8,1.0,0.6,1.0,0,0,0,0
+Tim Yung,yungsters@fb.com,Timothy Yung,yungsters@meta.com,0.8,1.0,0.6,1.0,0,0,0,0
+Tim Yung,yungsters@fb.com,yungsters,yungsters@fb.com,0.47058823529411764,1.0,0.16666666666666663,0.0,0,0,0,0
+Timothy Yung,yungsters@fb.com,Timothy Yung,yungsters@gmail.com,1.0,1.0,1.0,1.0,0,0,0,0
+Timothy Yung,yungsters@fb.com,Timothy Yung,yungsters@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Timothy Yung,yungsters@fb.com,yungsters,yungsters@fb.com,0.38095238095238093,1.0,0.125,0.0,0,0,0,0
+Timothy Yung,yungsters@gmail.com,Timothy Yung,yungsters@meta.com,1.0,1.0,1.0,1.0,0,0,0,0
+Timothy Yung,yungsters@gmail.com,yungsters,yungsters@fb.com,0.38095238095238093,1.0,0.125,0.0,0,0,0,0
+Timothy Yung,yungsters@meta.com,yungsters,yungsters@fb.com,0.38095238095238093,1.0,0.125,0.0,0,0,0,0
+Tom,tom@tomm.cc,Tom Duncalf,tom@tomduncalf.com,0.4285714285714286,1.0,1.0,0.0,0,0,0,0
+Tom,tom@tomm.cc,Tom MacWright,tom@macwright.org,0.375,1.0,1.0,0.0,0,0,0,0
+Tom Duncalf,tom@tomduncalf.com,Tom MacWright,tom@macwright.org,0.41666666666666663,1.0,1.0,0.125,0,0,0,0
+Tom Occhino,tomocchino@gmail.com,tomocchino,tomocchino@gmail.com,0.9523809523809523,1.0,0.46153846153846156,0.0,0,0,0,0
+Tyler Buchea,tyler@buchea.com,Tyler Scott Williams,tyler@coolsoftware.dev,0.5,1.0,1.0,0.19999999999999996,0,0,0,0
+Valentin Shergin,shergin@fb.com,Valentin Shergin,valentin@shergin.com,1.0,0.4,1.0,1.0,0,0,0,0
+Vic Graf,69855483+Vicachu42@users.noreply.github.com,Victoria Graf,69855483+Vicachu42@users.noreply.github.com,0.7619047619047619,1.0,0.5454545454545454,1.0,0,0,0,0
+Yann アウネ Eves,hello@yanneves.com,Yasar icli,hello@yasaricli.com,0.26086956521739135,1.0,0.4444444444444444,0.0,0,0,0,0
+Yann アウネ Eves,hello@yanneves.com,simonewebdesign,hello@simonewebdesign.it,0.2857142857142857,1.0,0.21052631578947367,0.0,0,0,0,0
+Yasar icli,hello@yasaricli.com,simonewebdesign,hello@simonewebdesign.it,0.24,1.0,0.09999999999999998,0.0,0,0,0,0
+Zach Bruggeman,zbruggeman@me.com,remixz,zbruggeman@me.com,0.30000000000000004,1.0,0.19999999999999996,0.0,1,0,0,0
+Zane Hitchcox,zwhitchcox@gmail.com,zwhitchcox,zwhitchcox@gmail.com,0.782608695652174,1.0,0.1428571428571429,0.0,0,0,0,0
+alexpien,alexpien@gmail.com,alexpien,pien@pien-mbp.dhcp.thefacebook.com,1.0,0.6666666666666667,1.0,0.0,0,0,0,0
+alexpien,alexpien@gmail.com,alexpien,pien@pien-mbp.local,1.0,0.6666666666666667,1.0,0.0,0,0,0,0
+alexpien,pien@pien-mbp.dhcp.thefacebook.com,alexpien,pien@pien-mbp.local,1.0,1.0,1.0,0.0,0,0,0,0
+cookfront,cookfront@gmail.com,张敏,cookfront@gmail.com,0.0,1.0,0.0,0.0,0,0,0,0
+dan,dan.abramov@gmail.com,dan,dan.abramov@me.com,1.0,1.0,1.0,0.0,0,0,0,0
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,dependabot[bot],dependabot[bot]@users.noreply.github.com,1.0,0.7692307692307692,1.0,0.0,0,0,0,0
+jddxf,740531372@qq.com,俞火江,740531372@qq.com,0.0,1.0,0.0,0.0,0,0,0,0
+jeffmo,jeff@anafx.com,jeffmo,lbljeffmo@gmail.com,1.0,0.6153846153846154,1.0,0.0,0,0,0,0
+jim,jsproch@fb.com,jim,none@no-reply.com,1.0,0.18181818181818177,1.0,0.0,0,0,0,0
+jim,jsproch@fb.com,jsfb,jsproch@fb.com,0.2857142857142857,1.0,0.2857142857142857,0.0,0,0,0,0
+karczk,karcz.k@gmail.com,krystian.karczewski,karcz.k@gmail.com,0.5,1.0,0.5,0.0,0,0,0,0
+lunaruan,eloquent.mayhem@gmail.com,lunaruan,lunaris.ruan@gmail.com,1.0,0.37037037037037035,1.0,0.0,0,0,0,0
+niexq,1879633916@qq.com,niexq,niexq@firstgrid.cn,1.0,0.0,1.0,0.0,0,0,0,0
+petehunt,floydophone@gmail.com,petehunt,pete.hunt@fb.com,1.0,0.30000000000000004,1.0,0.0,0,0,0,0
+plievone,pete@screen.io,plievone,petri.lievonen@tkk.fi,1.0,0.4444444444444444,1.0,0.0,0,0,0,0
+plievone,pete@screen.io,plievone,plievone@cc.hut.fi,1.0,0.5,1.0,0.0,0,0,0,0
+plievone,petri.lievonen@tkk.fi,plievone,plievone@cc.hut.fi,1.0,0.7272727272727273,1.0,0.0,0,0,0,0
+sweetliquid,master@sweetliquid.me,春希与子晴,master@sweetliquid.me,0.0,1.0,0.0,0.0,0,0,0,0
+yuntao.qyt,yuntao.qyt@alibaba-inc.com,却痕,yuntao.qyt@alibaba-inc.com,0.0,1.0,0.0,0.0,0,0,0,0
