@@ -71,6 +71,7 @@ Andrew Clark,git@andrewclark.io,Andrew Clark,github@andrewclark.io,1.0,0.6666666
 Andrew Clark,git@andrewclark.io,Cameron Chamberlain,git@camjc.com,0.3870967741935484,1.0,0.3076923076923077,0.375,0,0,0,0
 Andrew Clark,git@andrewclark.io,Josh Goldberg ✨,git@joshuakgoldberg.com,0.2222222222222222,1.0,0.0,0.2666666666666667,0,0,0,0
 Andrew Clark,git@andrewclark.io,Julien Bordellier,git@julienbordellier.com,0.3448275862068966,1.0,0.16666666666666663,0.2666666666666667,0,0,0,0
+Andrew Clark,git@andrewclark.io,Michael H,git@riskymh.dev,0.2857142857142857,1.0,0.3076923076923077,0.0,0,0,0,0
 Andrew Clark,git@andrewclark.io,Orta Therox,git@orta.io,0.26086956521739135,1.0,0.19999999999999996,0.18181818181818177,0,0,0,0
 Andrew Clark,git@andrewclark.io,Remko Tronçon,git@el-tramo.be,0.31999999999999995,1.0,0.36363636363636365,0.16666666666666663,0,0,0,0
 Andrew Clark,git@andrewclark.io,Sophie Alpert,git@sophiebits.com,0.31999999999999995,1.0,0.16666666666666663,0.36363636363636365,0,0,0,0
@@ -155,6 +156,7 @@ Brian Vaughn,brian.david.vaughn@gmail.com,Brian Vaughn,bvaughn@fb.com,1.0,0.56,1
 Cameron Chamberlain,git@camjc.com,Cameron Chamberlain,hi@camjc.com,1.0,0.4,1.0,1.0,0,0,0,0
 Cameron Chamberlain,git@camjc.com,Josh Goldberg ✨,git@joshuakgoldberg.com,0.2941176470588235,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
 Cameron Chamberlain,git@camjc.com,Julien Bordellier,git@julienbordellier.com,0.38888888888888884,1.0,0.3076923076923077,0.38095238095238093,0,0,0,0
+Cameron Chamberlain,git@camjc.com,Michael H,git@riskymh.dev,0.4285714285714286,1.0,0.4285714285714286,0.16666666666666663,0,0,0,0
 Cameron Chamberlain,git@camjc.com,Orta Therox,git@orta.io,0.33333333333333337,1.0,0.18181818181818177,0.3529411764705882,0,0,0,0
 Cameron Chamberlain,git@camjc.com,Remko Tronçon,git@el-tramo.be,0.375,1.0,0.33333333333333337,0.2222222222222222,0,0,0,0
 Cameron Chamberlain,git@camjc.com,Sophie Alpert,git@sophiebits.com,0.3125,1.0,0.15384615384615385,0.3529411764705882,0,0,0,0
@@ -495,6 +497,7 @@ Josh Duck,github@joshduck.com,Troy DeMonbreun,github@troyd.net,0.333333333333333
 Josh Duck,josh@fb.com,Josh Hunt,josh@trtr.co,0.6666666666666667,1.0,1.0,0.25,0,0,0,0
 Josh Duck,josh@fb.com,Josh Perez,josh@goatslacker.com,0.5263157894736843,1.0,1.0,0.0,0,0,0,0
 Josh Goldberg ✨,git@joshuakgoldberg.com,Julien Bordellier,git@julienbordellier.com,0.375,1.0,0.19999999999999996,0.4,0,0,0,0
+Josh Goldberg ✨,git@joshuakgoldberg.com,Michael H,git@riskymh.dev,0.25,1.0,0.18181818181818177,0.0,0,0,0,0
 Josh Goldberg ✨,git@joshuakgoldberg.com,Orta Therox,git@orta.io,0.3076923076923077,1.0,0.25,0.25,0,0,0,0
 Josh Goldberg ✨,git@joshuakgoldberg.com,Remko Tronçon,git@el-tramo.be,0.2142857142857143,1.0,0.2222222222222222,0.11764705882352944,0,0,0,0
 Josh Goldberg ✨,git@joshuakgoldberg.com,Sophie Alpert,git@sophiebits.com,0.4285714285714286,1.0,0.4,0.375,0,0,0,0
@@ -515,6 +518,7 @@ Juan,jstejada@fb.com,Juan,juan@juansoto.me,1.0,0.33333333333333337,1.0,0.0,0,0,0
 Juan,jstejada@fb.com,Juan,juans.tejada@gmail.com,1.0,0.8,1.0,0.0,0,0,0,0
 Juan,jstejada@fb.com,jstejada,jstejada@fb.com,0.33333333333333337,1.0,0.33333333333333337,0.0,0,0,0,0
 Juan,juan@juansoto.me,Juan,juans.tejada@gmail.com,1.0,0.5,1.0,0.0,0,0,0,0
+Julien Bordellier,git@julienbordellier.com,Michael H,git@riskymh.dev,0.23076923076923073,1.0,0.3076923076923077,0.0,0,0,0,0
 Julien Bordellier,git@julienbordellier.com,Orta Therox,git@orta.io,0.2857142857142857,1.0,0.0,0.25,0,0,0,0
 Julien Bordellier,git@julienbordellier.com,Remko Tronçon,git@el-tramo.be,0.19999999999999996,1.0,0.18181818181818177,0.11764705882352944,0,0,0,0
 Julien Bordellier,git@julienbordellier.com,Sophie Alpert,git@sophiebits.com,0.4,1.0,0.33333333333333337,0.375,0,0,0,0
@@ -617,6 +621,11 @@ Matthew Johnston,matthewjohnston4@outlook.com,Matthew Johnston,matthewjohnston4@
 Max,contact@mstoiber.com,Steven Vachon,contact@svachon.com,0.125,1.0,0.0,0.0,0,0,0,0
 Md Zubair Ahmed,ahmedzubair216@gmail.com,Zubair Ahmed,ahmedzubair216@gmail.com,0.8888888888888888,1.0,0.0,0.5882352941176471,0,0,0,0
 "Mengdi ""Monday"" Chen",mengdi@fb.com,Mengdi Chen,mengdi@fb.com,0.7586206896551724,1.0,1.0,0.5333333333333333,0,0,0,0
+Michael H,git@riskymh.dev,Orta Therox,git@orta.io,0.30000000000000004,1.0,0.18181818181818177,0.2857142857142857,0,0,0,0
+Michael H,git@riskymh.dev,Remko Tronçon,git@el-tramo.be,0.18181818181818177,1.0,0.16666666666666663,0.0,0,0,0,0
+Michael H,git@riskymh.dev,Sophie Alpert,git@sophiebits.com,0.2727272727272727,1.0,0.3076923076923077,0.0,0,0,0,0
+Michael H,git@riskymh.dev,Stefan Sundin,git@stefansundin.com,0.18181818181818177,1.0,0.15384615384615385,0.0,0,0,0,0
+Michael H,git@riskymh.dev,skratchdot,git@skratchdot.com,0.21052631578947367,1.0,0.23529411764705888,0.0,0,0,0,0
 Michael McDermott,michael@mgmcdermott.com,Michael Terry,michael@michaelterry.org,0.6666666666666667,1.0,1.0,0.2857142857142857,0,0,0,0
 Michael Ridgway,mcridgway@gmail.com,Michael Ridgway,mridgway@yahoo-inc.com,1.0,0.9411764705882353,1.0,1.0,1,0,0,0
 Michael Vitousek,mmvitousek@gmail.com,Mike Vitousek,mmvitousek@gmail.com,0.8275862068965517,1.0,0.5454545454545454,1.0,0,0,0,0

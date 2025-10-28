@@ -44,7 +44,7 @@ def normalize_text(text):
 def tokenize_email(email):
     """Split email into prefix and domain, and tokenize the prefix."""
     if "@" not in email:
-        return "", "", [] # Fixed to always return 3 values
+        return "", "", []
     prefix, domain = email.split("@", 1)
     tokens = re.split(r"[._\-\d]+", prefix)
     tokens = [t for t in tokens if t]
@@ -80,10 +80,9 @@ def canonical_name(name):
 
 def check_rules_and_metrics(dev1, dev2):
     """
-    Applies the original R1-R6 heuristic rules AND computes the raw C-metrics 
-    (based on Levenshtein ratio) for a fair comparison.
+    Applies the R1-R6 heuristic rules.
     
-    Returns: (list_of_matching_rules, dict_of_c_metrics)
+    Returns: list_of_matching_rules
     """
     
     # Define thresholds relative to the main one
@@ -108,17 +107,12 @@ def check_rules_and_metrics(dev1, dev2):
 
     # Basic filters (Keep as-is)
     if any(x in email1 + email2 for x in ["bot", "ci", "auto", "build", "test", "action"]):
-        return [], {}
+        return []
 
-    # --- Metrics (C1, C2, C3.1, C3.2 - all Levenshtein ratios) ---
+    # --- Metrics used internally by R-Rules (Levenshtein ratios) ---
     
-    # C1 (Name Similarity)
     name_sim = levenshtein_sim(name1_norm, name2_norm)
-    
-    # C2 (Email Prefix Similarity)
     prefix_sim = levenshtein_sim(prefix1_norm, prefix2_norm)
-    
-    # C-helpers for R-rules and C3.x
     prefix_overlap = jaccard_sim(tokens1, tokens2)
 
     name1_tokens = name1_norm.split()
@@ -129,19 +123,14 @@ def check_rules_and_metrics(dev1, dev2):
     last1 = name1_tokens[-1] if len(name1_tokens) > 1 else ""
     last2 = name2_tokens[-1] if len(name2_tokens) > 1 else ""
 
-    # C3.1 (First Name Similarity)
-    c31 = levenshtein_sim(first1, first2) if first1 and first2 else 0
+    last_name_sim = levenshtein_sim(last1, last2) if last1 and last2 else 0
     
-    # C3.2 (Last Name Similarity)
-    c32 = levenshtein_sim(last1, last2) if last1 and last2 else 0
-    
-    # --- R-Rule Prerequisites (Calculated using Levenshtein ratios) ---
+    # --- R-Rule Prerequisites ---
 
     same_domain = (domain1 == domain2)
     
     # R3, R4, R6 rely on same_lastname being true
-    # This uses c32 (last name Levenshtein ratio)
-    same_lastname = c32 >= NORMAL_SIM 
+    same_lastname = last_name_sim >= NORMAL_SIM 
     
     # R3 relies on initial match
     firstname_initial_match = first1 and first2 and first1[0] == first2[0]
@@ -159,42 +148,29 @@ def check_rules_and_metrics(dev1, dev2):
         matching_rules.append("R1")
 
     # R2: Same domain + name typo tolerance 
-    if same_domain and name_sim >= STRICT_SIM: # Uses name_sim (Levenshtein)
+    if same_domain and name_sim >= STRICT_SIM:
         matching_rules.append("R2")
 
     # R3: Prefix variation (initials) - Must have same domain
-    # Uses prefix_sim (Levenshtein) and same_lastname (derived from Levenshtein)
     if same_domain and firstname_initial_match and same_lastname and prefix_sim >= NORMAL_SIM:
         matching_rules.append("R3")
 
     # R4: Prefix token overlap - Requires some name evidence (e.g., last name match)
-    # Uses same_lastname (derived from Levenshtein)
     if prefix_overlap >= LAX_SIM and same_lastname:
         matching_rules.append("R4")
 
     # R5: Cross-domain match - Requires very high name and email overlap
-    # Uses name_sim (Levenshtein)
     unrelated_domains = {"github.com", "users.noreply.github.com"}
     if domain1 != domain2 and domain1 not in unrelated_domains and domain2 not in unrelated_domains:
         if name_sim >= STRICT_SIM and prefix_overlap >= NORMAL_SIM:
             matching_rules.append("R5")
 
     # R6: Nickname match + Email prefix evidence 
-    # Uses nickname_match (derived from Levenshtein) and prefix_sim (Levenshtein)
     if nickname_match:
         if prefix_sim >= LAX_SIM or prefix_overlap >= (LAX_SIM - 0.2):
             matching_rules.append("R6")
             
-    # Compile C-metrics for output, aligning with the second script's names
-    c_metrics = {
-        "c1": name_sim, 
-        "c2": prefix_sim, 
-        "c3.1": c31, 
-        "c3.2": c32
-        # C4-C7 are not strictly required here but can be added if needed for max comparability
-    }
-
-    return matching_rules, c_metrics
+    return matching_rules
 
 
 # -----------------------------
@@ -212,7 +188,6 @@ projects = [
 
 BASE_DIR = "src"
 ALL_RULES = ["R1", "R2", "R3", "R4", "R5", "R6"] # Fixed set of rule columns
-ALL_C_METRICS = ["c1", "c2", "c3.1", "c3.2"] # Levenshtein ratio metrics
 
 for project_url in projects:
     repo_name = project_url.split("/")[-2] + "_" + project_url.split("/")[-1]
@@ -250,8 +225,8 @@ for project_url in projects:
             dev1 = developers[i]
             dev2 = developers[j]
             
-            # Get the list of rules that fired AND the C-metrics
-            matching_rules, c_metrics = check_rules_and_metrics(dev1, dev2)
+            # Get the list of rules that fired (no C-metrics returned now)
+            matching_rules = check_rules_and_metrics(dev1, dev2)
             
             # Only process if at least one rule fired
             if matching_rules:
@@ -264,26 +239,23 @@ for project_url in projects:
                     indicator = 1 if rule in matching_rules else 0
                     row.append(indicator)
                 
-                # 3. Add a column for each C-metric (raw score)
-                for metric in ALL_C_METRICS:
-                    # Append the Levenshtein ratio
-                    row.append(c_metrics.get(metric, 0.0))
+                # Note: No C-metrics added here
                 
                 potential_duplicates_rows.append(row)
 
 
     # Save results
-    results_path = os.path.join(output_dir, "combined_duplicates_metrics.csv")
+    results_path = os.path.join(output_dir, "rules_based_duplicates.csv")
     with open(results_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         
-        # Create the header: name1, email1, name2, email2, R1-R6, C1-C3.2
-        header = ["name1", "email1", "name2", "email2"] + ALL_RULES + ALL_C_METRICS
+        # Create the header: name1, email1, name2, email2, R1-R6
+        header = ["name1", "email1", "name2", "email2"] + ALL_RULES
         writer.writerow(header) 
         
         for row in potential_duplicates_rows:
             writer.writerow(row)
 
-    print(f"→ Saved {len(potential_duplicates_rows)} potential duplicate pairs to {results_path} (R-rules and Levenshtein ratios included)")
+    print(f"→ Saved {len(potential_duplicates_rows)} potential duplicate pairs to {results_path} (R-rules indicators only)")
 
 print("\n🎉 Processing complete for all repositories.")

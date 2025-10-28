@@ -9,11 +9,6 @@ from pydriller import Repository
 
 # List of GitHub repositories
 projects = [
-    "https://github.com/flutter/flutter",
-    "https://github.com/facebook/react",
-    "https://github.com/eslint/eslint",
-    "https://github.com/babel/babel",
-    "https://github.com/zulip/zulip",
     "https://github.com/cdnjs/cdnjs",
 ]
 
