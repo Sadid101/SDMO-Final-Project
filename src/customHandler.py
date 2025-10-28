@@ -202,12 +202,12 @@ def check_rules_and_metrics(dev1, dev2):
 # -----------------------------
 
 projects = [
-    "https://github.com/facebook/react",
     "https://github.com/flutter/flutter",
-    "https://github.com/Homebrew/homebrew-core"
-    "https://github.com/nodejs/node",
-    "https://github.com/torvalds/linux",
-    "https://github.com/rails/rails"
+    "https://github.com/facebook/react",
+    "https://github.com/eslint/eslint",
+    "https://github.com/babel/babel",
+    "https://github.com/zulip/zulip",
+    "https://github.com/cdnjs/cdnjs",
 ]
 
 BASE_DIR = "src"
