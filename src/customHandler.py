@@ -183,7 +183,7 @@ projects = [
     "https://github.com/eslint/eslint",
     "https://github.com/babel/babel",
     "https://github.com/zulip/zulip",
-    "https://github.com/cdnjs/cdnjs",
+    "https://github.com/apache/spark"
 ]
 
 BASE_DIR = "src"
